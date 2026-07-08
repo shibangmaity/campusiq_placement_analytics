@@ -258,14 +258,16 @@ def apply_theme():
     [data-testid="stBottomBlockContainer"] textarea,
     .stChatFloatingInputContainer textarea {
         background: rgba(255,255,255,0.05) !important;
-        color: #e2e8f0 !important;
+        color: #000000 !important;
         border-radius: 10px !important;
-        -webkit-text-fill-color: #e2e8f0 !important;
+        -webkit-text-fill-color: #000000 !important;
+        opacity: 1 !important;
+        font-weight: 500 !important;
     }
     [data-testid="stChatInput"] textarea::placeholder,
     [data-testid="stChatInputTextArea"]::placeholder {
-        color: #64748b !important;
-        -webkit-text-fill-color: #64748b !important;
+        color: #4b5563 !important;
+        -webkit-text-fill-color: #4b5563 !important;
     }
     [data-testid="stChatInput"] button {
         background: rgba(139,92,246,0.25) !important;
