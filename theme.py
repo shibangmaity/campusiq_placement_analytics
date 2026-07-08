@@ -301,6 +301,82 @@ def apply_theme():
     .js-plotly-plot .plotly .svg-container {
         background: transparent !important;
     }
+    /* ── FINAL FORM-ELEMENT THEME — white background + black text, always ──
+       We tried forcing these dark to match the page theme, but native
+       widgets (select, number input, chat input) fought back inconsistently
+       — sometimes background stayed white with light text (invisible),
+       sometimes .streamlit/config.toml made it dark with black text from
+       our earlier fix (also invisible). Instead of continuing to chase
+       that, this locks in ONE consistent, always-readable combination for
+       every interactive form element: white background, black text. The
+       rest of the page (cards, sidebar, backgrounds) stays dark as before —
+       only the actual input/dropdown surfaces are light. */
+
+    div[data-baseweb="select"] > div,
+    div[data-baseweb="select"] [class*="control"] {
+        background: #ffffff !important;
+        border: 1px solid rgba(139,92,246,0.35) !important;
+        border-radius: 10px !important;
+    }
+    div[data-baseweb="select"] input,
+    div[data-baseweb="select"] [class*="ValueContainer"] div {
+        color: #000000 !important;
+    }
+    div[data-baseweb="select"] svg {
+        fill: #374151 !important;
+    }
+
+    div[data-baseweb="popover"] ul,
+    div[data-baseweb="menu"],
+    div[data-baseweb="popover"] [role="listbox"] {
+        background: #ffffff !important;
+        border: 1px solid rgba(139,92,246,0.35) !important;
+        border-radius: 10px !important;
+    }
+    div[data-baseweb="popover"] li,
+    div[data-baseweb="menu"] li,
+    div[data-baseweb="popover"] [role="option"] {
+        background: #ffffff !important;
+        color: #000000 !important;
+    }
+    div[data-baseweb="popover"] li:hover,
+    div[data-baseweb="menu"] li:hover,
+    div[data-baseweb="popover"] [role="option"]:hover {
+        background: rgba(139,92,246,0.12) !important;
+    }
+
+    input[type="text"],
+    input[type="search"],
+    input[type="number"],
+    input[type="password"],
+    input[type="email"],
+    textarea,
+    [data-testid="stChatInput"] textarea,
+    [data-testid="stChatInputTextArea"] {
+        background: #ffffff !important;
+        color: #000000 !important;
+        -webkit-text-fill-color: #000000 !important;
+        caret-color: #000000 !important;
+        border-radius: 10px !important;
+    }
+    input[type="text"]::placeholder,
+    input[type="search"]::placeholder,
+    input[type="number"]::placeholder,
+    textarea::placeholder,
+    [data-testid="stChatInput"] textarea::placeholder {
+        color: #6b7280 !important;
+        -webkit-text-fill-color: #6b7280 !important;
+        opacity: 1 !important;
+    }
+
+    input:-webkit-autofill,
+    input:-webkit-autofill:hover,
+    input:-webkit-autofill:focus,
+    input:-webkit-autofill:active {
+        -webkit-text-fill-color: #000000 !important;
+        box-shadow: 0 0 0px 1000px #ffffff inset !important;
+        transition: background-color 5000s ease-in-out 0s;
+    }
     </style>
     """, unsafe_allow_html=True)
 
