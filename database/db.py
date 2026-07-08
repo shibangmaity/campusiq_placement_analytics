@@ -109,6 +109,7 @@ def get_connection():
             user=os.environ.get("DB_USER", "postgres"),
             password=os.environ.get("DB_PASSWORD", ""),
             port=os.environ.get("DB_PORT", 5432),
+            sslmode="require",
         )
     except Exception as e:
         try:
