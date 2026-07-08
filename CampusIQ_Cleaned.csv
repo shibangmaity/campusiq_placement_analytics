@@ -1,0 +1,601 @@
+Student_Name,Gender,Stream,Branch,Semester,10th_%,10th_Board,10th_Passout_Year,12th_%,12th_Education,12th_Passout_Year,University_Admission_Year,CGPA,Attendance_%,Backlog,Top_Certification,Internship_Status,Projects_Count,Placement_Status,Placement_Result,Company
+s1,Male,B.Tech,IT,1,79.07,CBSE,2024,84.44,CBSE - Science,2026.0,2026,8.68,90.0,No,Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s2,Male,Diploma,Diploma Mechanical,1,74.22,State Board,2025,,Diploma (Lateral Entry),,2026,5.2,75.0,Yes,ETABS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s3,Male,BCA,Computer Applications,1,63.83,CBSE,2023,69.28,ISC - Arts,2025.0,2026,7.11,87.0,No,Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s4,Female,M.Tech,Communication Systems,2,72.03,CBSE,2020,67.85,CBSE - Science,2022.0,2026,7.47,89.0,No,Python,Not Yet,1,Not Placed,Not Placed,Not Placed
+s5,Male,Diploma,Diploma Electrical,6,85.0,CBSE,2024,,Diploma (Lateral Entry),,2024,8.57,90.0,Yes,No Certification,Ongoing - Wipro,2,Placed - Accenture,Placed,Accenture
+s6,Female,M.Tech,Power Systems,3,80.24,State Board,2019,92.9,ISC - Science,2021.0,2025,9.4,94.0,No,ANSYS,Completed - IBM,2,Placed - NTPC,Placed,NTPC
+s7,Male,B.Tech,Civil,5,62.43,ICSE,2022,78.45,CBSE - Science,2024.0,2024,8.14,91.0,No,No Certification,Completed - NTPC,1,Not Placed,Not Placed,Not Placed
+s8,Female,B.Tech,CSE,3,84.21,State Board,2022,67.66,CBSE - Science,2024.0,2025,9.54,96.0,No,ML,Completed - HCL,5,Not Placed,Not Placed,Not Placed
+s9,Male,B.Tech,Civil,8,71.05,CBSE,2021,88.05,State Board - Science,2023.0,2023,7.49,67.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s10,Male,B.Tech,Civil,3,82.14,ICSE,2022,73.72,CHSE Odisha - Science,2024.0,2025,7.25,57.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s11,Male,M.Tech,Thermal Engineering,4,54.56,ICSE,2019,67.42,CBSE - Science,2021.0,2025,7.18,78.0,Yes,MATLAB & Simulink,Completed - JSW Steel,1,Not Placed,Not Placed,Not Placed
+s12,Male,B.Tech,CSE,4,72.54,ICSE,2022,64.53,ISC - Science,2024.0,2025,6.09,95.0,No,No Certification,Completed - Google,3,Not Placed,Not Placed,Not Placed
+s13,Female,B.Tech,IT,1,81.89,ICSE,2023,87.18,CBSE - Science,2025.0,2026,8.86,89.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s14,Female,B.Tech,ECE,8,93.15,CBSE,2021,88.34,ISC - Science,2023.0,2023,9.24,80.0,No,AWS,Completed - IBM,3,Placed - Adobe,Placed,Adobe
+s15,Male,B.Tech,CSE,5,73.47,State Board,2022,82.2,ISC - Science,2024.0,2024,6.78,71.0,Yes,No Certification,Completed - IBM,0,Not Placed,Not Placed,Not Placed
+s16,Female,B.Tech,ECE,1,76.25,CBSE,2024,76.42,CHSE Odisha - Science,2026.0,2026,5.15,75.0,Yes (Cleared),No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s17,Female,M.Tech,VLSI,4,87.57,CBSE,2019,79.67,CBSE - Science,2021.0,2025,8.59,87.0,Yes,Cisco CCNA,Ongoing - Google,3,Not Placed,Not Placed,Not Placed
+s18,Female,MCA,Artificial Intelligence,2,96.54,CBSE,2021,67.91,CBSE - Science,2023.0,2026,9.15,86.0,No,Python,Not Yet,3,Not Placed,Not Placed,Not Placed
+s19,Male,B.Tech,Mechanical,8,86.16,CBSE,2021,93.74,ISC - Science,2023.0,2023,8.63,88.0,No,AutoCAD,Completed - Tata Motors,3,Placed - TCS,Placed,TCS
+s20,Female,M.Tech,Thermal Engineering,4,81.11,ICSE,2019,72.36,CBSE - Science,2021.0,2025,7.69,73.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s21,Female,BCA,Computer Applications,2,97.34,State Board,2024,82.36,State Board - Science,2026.0,2026,7.22,85.0,Yes,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s22,Male,BCA,Information Technology,6,71.3,CBSE,2022,88.66,CHSE Odisha - Arts,2024.0,2024,6.95,98.0,Yes,ML,Completed - Google,1,Not Placed,Not Placed,Not Placed
+s23,Male,BCA,Information Technology,6,94.04,ICSE,2022,88.57,State Board - Commerce,2024.0,2024,8.46,90.0,Yes,No Certification,Completed - Intel,2,Not Placed,Not Placed,Not Placed
+s24,Male,M.Tech,Embedded Systems,4,78.11,CBSE,2019,76.38,CBSE - Science,2021.0,2025,6.87,70.0,Yes,No Certification,Ongoing - Cisco,1,Not Placed,Not Placed,Not Placed
+s25,Female,BCA,Computer Applications,1,59.66,ICSE,2024,70.3,CHSE Odisha - Science,2026.0,2026,7.26,78.0,No,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s26,Female,M.Tech,Power Systems,4,73.3,ICSE,2018,79.19,ISC - Science,2020.0,2025,7.48,74.0,Yes (Cleared),ETABS,Ongoing - Cognizant,3,Placed - Infosys,Placed,Infosys
+s27,Male,B.Tech,EEE,3,78.64,State Board,2023,64.38,State Board - Science,2025.0,2025,6.35,80.0,No,ETABS,Completed - Tata Motors,1,Not Placed,Not Placed,Not Placed
+s28,Female,BCA,Computer Applications,6,92.85,CBSE,2022,89.18,ISC - Science,2024.0,2024,9.79,91.5,Yes,Python,Ongoing - Intel,3,Not Placed,Not Placed,Not Placed
+s29,Female,B.Tech,IT,6,75.06,CBSE,2022,72.42,ISC - Science,2024.0,2024,8.8,84.0,No,SQL,Ongoing - Microsoft,3,Not Placed,Not Placed,Not Placed
+s30,Female,M.Tech,Embedded Systems,1,86.28,State Board,2020,89.77,CHSE Odisha - Science,2022.0,2026,9.13,93.0,No,Java,Not Yet,1,Not Placed,Not Placed,Not Placed
+s31,Female,B.Tech,Mechanical,1,59.05,ICSE,2024,69.36,CBSE - Science,2026.0,2026,6.83,78.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s32,Male,B.Tech,Mechanical,1,53.25,ICSE,2024,73.17,ISC - Science,2026.0,2026,7.36,88.0,No,ETABS,Not Yet,0,Not Placed,Not Placed,Not Placed
+s33,Female,B.Tech,Civil,8,85.34,ICSE,2021,68.87,State Board - Science,2023.0,2023,7.37,98.0,Yes,ETABS,Completed - ISRO,1,Not Placed,Not Placed,Not Placed
+s34,Female,B.Sc,Mathematics,6,71.76,State Board,2021,74.91,CHSE Odisha - Arts,2023.0,2024,7.3,79.0,Yes,Python,Not Yet,3,Not Placed,Not Placed,Not Placed
+s35,Male,BCA,Computer Applications,6,71.67,State Board,2021,66.51,State Board - Science,2023.0,2024,7.41,83.0,Yes,Java,Completed - ISRO,4,Placed - Accenture,Placed,Accenture
+s36,Female,M.Tech,Environmental Engineering,4,75.77,CBSE,2018,60.09,CHSE Odisha - Science,2020.0,2025,8.14,80.0,Yes,MATLAB & Simulink,Ongoing - DRDO,4,Not Placed,Not Placed,Not Placed
+s37,Male,B.Sc,Chemistry,4,89.05,ICSE,2023,85.26,ISC - Commerce,2025.0,2025,8.08,83.0,No,NPTEL DBMS,Completed - IBM,2,Not Placed,Not Placed,Not Placed
+s38,Male,B.Sc,Chemistry,6,81.97,ICSE,2022,69.84,State Board - Science,2024.0,2024,8.64,95.0,Yes,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s39,Male,B.Tech,IT,1,78.8,ICSE,2023,68.57,ISC - Science,2025.0,2026,7.1,77.0,No,AWS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s40,Female,MCA,Artificial Intelligence,2,68.15,CBSE,2021,70.56,State Board - Science,2023.0,2026,7.09,73.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s41,Male,B.Sc,Chemistry,6,82.69,ICSE,2022,76.78,State Board - Science,2024.0,2024,8.72,95.0,Yes,SQL,Completed - DRDO,2,Not Placed,Not Placed,Not Placed
+s42,Female,B.Tech,Civil,8,65.82,ICSE,2021,75.0,ISC - Science,2023.0,2023,9.08,91.0,No,ETABS,Completed - IBM,3,Placed - Tata Motors,Placed,Tata Motors
+s43,Female,B.Sc,Physics,1,92.24,State Board,2024,82.31,CBSE - Science,2026.0,2026,8.39,76.0,No,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s44,Male,B.Tech,ECE,8,89.57,ICSE,2020,83.07,CHSE Odisha - Science,2022.0,2023,7.31,67.0,Yes (Cleared),No Certification,Completed - TCS,3,Placed - Wipro,Placed,Wipro
+s45,Male,BCA,Multimedia,6,76.83,CBSE,2022,72.69,ISC - Arts,2024.0,2024,6.31,51.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s46,Female,B.Tech,Civil,4,86.08,State Board,2022,92.51,CHSE Odisha - Science,2024.0,2025,9.22,87.0,No,Revit,Completed - Infosys,4,Not Placed,Not Placed,Not Placed
+s47,Female,B.Tech,Civil,8,84.71,State Board,2021,89.91,CHSE Odisha - Science,2023.0,2023,8.82,87.0,No,SolidWorks,Completed - Mahindra & Mahindra,3,Placed - Capgemini,Placed,Capgemini
+s48,Male,B.Tech,IT,3,94.5,State Board,2023,62.0,State Board - Science,2025.0,2025,8.09,87.0,No,AWS,Completed - Infosys,3,Not Placed,Not Placed,Not Placed
+s49,Female,B.Tech,EEE,8,90.42,State Board,2021,88.98,State Board - Science,2023.0,2023,8.07,81.0,No,No Certification,Completed - Siemens,2,Placed - Infosys,Placed,Infosys
+s50,Male,B.Tech,CSE,6,61.93,CBSE,2022,91.7,CBSE - Science,2024.0,2024,7.25,95.0,Yes,Cisco CCNA,Completed - HCL,1,Not Placed,Not Placed,Not Placed
+s51,Female,B.Tech,ECE,8,97.44,CBSE,2020,87.44,ISC - Science,2022.0,2023,8.66,85.0,No,No Certification,Not Yet,4,Not Placed,Not Placed,Not Placed
+s52,Male,B.Tech,Mechanical,8,73.31,ICSE,2020,64.91,CHSE Odisha - Science,2022.0,2023,6.06,71.0,Yes (Cleared),No Certification,Completed - BHEL,2,Placed - Infosys,Placed,Infosys
+s53,Female,M.Tech,Embedded Systems,2,81.71,CBSE,2019,89.1,CHSE Odisha - Science,2021.0,2026,8.89,88.0,No,Azure,Not Yet,4,Not Placed,Not Placed,Not Placed
+s54,Female,B.Tech,EEE,5,91.2,ICSE,2021,82.16,ISC - Science,2023.0,2024,6.99,54.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s55,Male,B.Tech,ECE,2,74.26,ICSE,2024,60.52,ISC - Science,2026.0,2026,6.06,64.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s56,Male,M.Tech,Structural Engineering,4,67.15,State Board,2018,60.4,State Board - Science,2020.0,2025,7.99,93.0,Yes,No Certification,Completed - Infosys,4,Not Placed,Not Placed,Not Placed
+s57,Female,BCA,Computer Applications,4,61.44,ICSE,2023,93.31,ISC - Arts,2025.0,2025,8.64,95.0,No,SQL,Completed - Amazon,2,Not Placed,Not Placed,Not Placed
+s58,Female,B.Tech,Mechanical,4,88.71,ICSE,2023,82.96,ISC - Science,2025.0,2025,6.95,93.0,Yes (Cleared),STAAD Pro,Completed - Wipro,1,Not Placed,Not Placed,Not Placed
+s59,Male,MCA,Artificial Intelligence,4,91.41,ICSE,2020,68.75,CHSE Odisha - Science,2022.0,2025,8.19,69.0,Yes,Java,Not Yet,1,Not Placed,Not Placed,Not Placed
+s60,Female,B.Tech,EEE,8,86.04,CBSE,2021,63.55,ISC - Science,2023.0,2023,8.01,96.0,No,AutoCAD,Completed - Siemens,2,Placed - Deloitte,Placed,Deloitte
+s61,Male,B.Sc,Physics,2,94.51,CBSE,2024,65.0,CBSE - Science,2026.0,2026,8.75,86.0,No,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s62,Female,B.Tech,ECE,2,78.78,CBSE,2024,68.18,CBSE - Science,2026.0,2026,6.49,65.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s63,Male,MCA,Computer Applications,4,89.47,ICSE,2019,87.17,CHSE Odisha - Science,2021.0,2025,9.21,79.0,Yes,SQL,Completed - Amazon,4,Placed - TCS,Placed,TCS
+s64,Female,MCA,Artificial Intelligence,4,86.64,State Board,2020,72.13,CBSE - Science,2022.0,2025,5.98,77.0,Yes (Cleared),No Certification,Completed - Oracle,1,Placed - Deloitte,Placed,Deloitte
+s65,Male,M.Tech,Robotics,4,86.24,ICSE,2019,65.34,ISC - Science,2021.0,2025,7.69,75.0,Yes,No Certification,Completed - DRDO,2,Not Placed,Not Placed,Not Placed
+s66,Female,B.Sc,Mathematics,2,82.77,State Board,2024,91.64,State Board - Commerce,2026.0,2026,7.94,75.0,No,NPTEL DBMS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s67,Female,BCA,Information Technology,6,93.52,ICSE,2022,87.71,CBSE - Commerce,2024.0,2024,9.83,90.0,Yes,Python,Ongoing - Google,2,Not Placed,Not Placed,Not Placed
+s68,Male,B.Tech,Mechanical,8,96.45,CBSE,2020,65.88,State Board - Science,2022.0,2023,7.95,77.0,No,Revit,Completed - Siemens,4,Placed - DRDO,Placed,DRDO
+s69,Male,B.Tech,Mechanical,8,83.27,CBSE,2021,91.19,State Board - Science,2023.0,2023,7.65,83.0,Yes (Cleared),STAAD Pro,Completed - Ashok Leyland,1,Placed - Accenture,Placed,Accenture
+s70,Female,B.Tech,Mechanical,8,88.6,ICSE,2020,81.29,ISC - Science,2022.0,2023,8.25,73.0,Yes,STAAD Pro,Completed - ISRO,5,Not Placed,Not Placed,Not Placed
+s71,Female,B.Tech,Mechanical,2,71.7,State Board,2023,87.34,CBSE - Science,2025.0,2026,9.07,88.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s72,Female,B.Tech,Mechanical,8,69.0,ICSE,2021,83.4,CHSE Odisha - Science,2023.0,2023,7.6,89.0,No,ETABS,Completed - Ashok Leyland,2,Placed - IBM,Placed,IBM
+s73,Female,B.Tech,EEE,4,88.12,ICSE,2023,91.29,CHSE Odisha - Science,2025.0,2025,7.66,70.0,Yes (Cleared),ETABS,Completed - Cognizant,1,Not Placed,Not Placed,Not Placed
+s74,Male,B.Tech,Civil,1,97.81,CBSE,2023,87.58,State Board - Science,2025.0,2026,7.2,94.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s75,Female,B.Tech,Mechanical,4,93.01,CBSE,2022,89.36,ISC - Science,2024.0,2025,8.82,77.0,No,STAAD Pro,Not Yet,3,Not Placed,Not Placed,Not Placed
+s76,Male,B.Tech,EEE,5,77.97,CBSE,2021,66.91,ISC - Science,2023.0,2024,7.46,88.0,No,PLC & SCADA,Completed - DRDO,3,Not Placed,Not Placed,Not Placed
+s77,Male,B.Tech,CSE,1,65.07,CBSE,2023,84.25,CHSE Odisha - Science,2025.0,2026,6.78,88.0,Yes (Cleared),SQL,Not Yet,2,Not Placed,Not Placed,Not Placed
+s78,Female,B.Tech,CSE,4,63.42,CBSE,2023,78.58,CHSE Odisha - Science,2025.0,2025,7.86,86.0,No,Cisco CCNA,Completed - DRDO,1,Not Placed,Not Placed,Not Placed
+s79,Female,B.Tech,EEE,2,56.2,State Board,2024,85.97,ISC - Science,2026.0,2026,6.23,89.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s80,Female,B.Tech,ECE,2,82.93,State Board,2024,75.35,CBSE - Science,2026.0,2026,6.87,83.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s81,Male,MCA,Data Science,4,74.71,CBSE,2019,90.89,State Board - Science,2021.0,2025,8.66,81.0,Yes,NPTEL DBMS,Ongoing - Infosys,5,Not Placed,Not Placed,Not Placed
+s82,Female,B.Tech,EEE,1,73.28,State Board,2024,79.43,ISC - Science,2026.0,2026,6.84,81.0,No,AutoCAD,Not Yet,2,Not Placed,Not Placed,Not Placed
+s83,Male,M.Tech,Robotics,1,57.26,State Board,2020,69.26,CHSE Odisha - Science,2022.0,2026,8.46,91.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s84,Female,MCA,Data Science,4,91.51,State Board,2020,68.2,State Board - Science,2022.0,2025,7.09,78.0,Yes,Cisco CCNA,Ongoing - TCS,1,Not Placed,Not Placed,Not Placed
+s85,Male,B.Sc,Physics,6,73.62,ICSE,2022,64.88,CBSE - Science,2024.0,2024,7.25,87.0,Yes (Cleared),Python,Completed - Amazon,2,Placed - Adobe,Placed,Adobe
+s86,Male,M.Tech,Environmental Engineering,1,76.93,CBSE,2020,77.26,CBSE - Science,2022.0,2026,7.04,78.0,Yes (Cleared),MATLAB & Simulink,Not Yet,1,Not Placed,Not Placed,Not Placed
+s87,Male,B.Tech,IT,1,68.48,State Board,2023,62.05,State Board - Science,2025.0,2026,8.77,95.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s88,Female,B.Tech,EEE,8,94.4,CBSE,2021,76.35,CBSE - Science,2023.0,2023,7.9,84.0,No,MATLAB & Simulink,Completed - Siemens,3,Placed - Infosys,Placed,Infosys
+s89,Female,B.Sc,Mathematics,2,72.26,CBSE,2023,65.05,State Board - Science,2025.0,2026,8.05,96.0,Yes (Cleared),NPTEL DBMS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s90,Female,B.Tech,CSE,2,82.58,CBSE,2024,77.2,State Board - Science,2026.0,2026,8.97,96.0,No,Java,Not Yet,3,Not Placed,Not Placed,Not Placed
+s91,Female,B.Tech,EEE,1,54.2,CBSE,2024,77.44,CHSE Odisha - Science,2026.0,2026,7.91,89.0,No,MATLAB & Simulink,Not Yet,1,Not Placed,Not Placed,Not Placed
+s92,Female,BCA,Data Analytics,6,94.73,State Board,2021,78.88,State Board - Science,2023.0,2024,9.87,94.0,Yes,AWS,Completed - Intel,4,Placed - Cognizant,Placed,Cognizant
+s93,Female,B.Tech,IT,1,92.94,CBSE,2023,90.2,ISC - Science,2025.0,2026,8.89,94.0,No,Python,Not Yet,4,Not Placed,Not Placed,Not Placed
+s94,Female,B.Tech,CSE,8,94.19,State Board,2021,60.23,CBSE - Science,2023.0,2023,7.9,82.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s95,Female,B.Tech,Mechanical,1,77.8,State Board,2023,89.43,State Board - Science,2025.0,2026,8.13,75.0,No,SolidWorks,Not Yet,3,Not Placed,Not Placed,Not Placed
+s96,Male,B.Tech,EEE,3,81.63,ICSE,2023,76.38,State Board - Science,2025.0,2025,8.97,99.0,No,ETABS,Ongoing - L&T,3,Not Placed,Not Placed,Not Placed
+s97,Female,B.Tech,ECE,8,80.05,CBSE,2021,79.69,State Board - Science,2023.0,2023,8.25,88.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s98,Female,B.Tech,IT,3,94.76,State Board,2023,83.29,ISC - Science,2025.0,2025,8.28,72.0,No,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s99,Female,B.Tech,ECE,8,96.82,ICSE,2021,89.42,ISC - Science,2023.0,2023,9.38,95.0,No,Java,Completed - Amazon,2,Placed - Goldman Sachs,Placed,Goldman Sachs
+s100,Female,Diploma,Diploma Civil,6,74.23,State Board,2024,,Diploma (Lateral Entry),,2024,7.1,90.0,Yes,MATLAB & Simulink,Completed - Cognizant,1,Not Placed,Not Placed,Not Placed
+s101,Male,B.Tech,Civil,2,74.93,State Board,2024,74.66,ISC - Science,2026.0,2026,7.5,78.0,No,AutoCAD,Not Yet,1,Not Placed,Not Placed,Not Placed
+s102,Male,B.Tech,IT,4,61.11,ICSE,2023,93.62,State Board - Science,2025.0,2025,7.04,89.0,No,Azure,Completed - ISRO,2,Not Placed,Not Placed,Not Placed
+s103,Female,Diploma,Diploma Electrical,6,76.53,State Board,2024,,Diploma (Lateral Entry),,2024,7.93,81.0,Yes,Revit,Completed - Siemens,2,Not Placed,Not Placed,Not Placed
+s104,Male,B.Tech,CSE,2,83.58,CBSE,2024,82.3,ISC - Science,2026.0,2026,7.57,69.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s105,Female,B.Tech,CSE,6,86.5,CBSE,2021,82.26,CBSE - Science,2023.0,2024,8.7,89.0,No,Azure,Not Yet,4,Not Placed,Not Placed,Not Placed
+s106,Male,B.Tech,Mechanical,8,77.36,CBSE,2021,61.0,State Board - Science,2023.0,2023,8.36,77.0,No,No Certification,Completed - L&T,1,Not Placed,Not Placed,Not Placed
+s107,Male,B.Tech,IT,2,70.11,ICSE,2024,81.34,State Board - Science,2026.0,2026,8.32,87.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s108,Male,B.Tech,Civil,2,81.73,State Board,2023,83.89,State Board - Science,2025.0,2026,7.11,65.0,Yes,ANSYS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s109,Female,B.Tech,Civil,8,80.34,State Board,2021,92.6,ISC - Science,2023.0,2023,8.13,89.0,No,ETABS,Completed - JSW Steel,2,Placed - TCS,Placed,TCS
+s110,Male,B.Tech,IT,8,68.16,CBSE,2021,71.57,CHSE Odisha - Science,2023.0,2023,8.67,90.0,No,Cisco CCNA,Completed - Amazon,2,Placed - TCS,Placed,TCS
+s111,Male,B.Tech,Civil,1,96.69,ICSE,2024,94.36,ISC - Science,2026.0,2026,8.81,68.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s112,Female,B.Tech,Civil,2,89.33,ICSE,2024,77.87,CHSE Odisha - Science,2026.0,2026,8.31,82.0,No,MATLAB & Simulink,Not Yet,1,Not Placed,Not Placed,Not Placed
+s113,Male,B.Tech,CSE,8,84.43,CBSE,2020,76.96,State Board - Science,2022.0,2023,8.13,82.0,No,Python,Completed - Cognizant,4,Placed - Tech Mahindra,Placed,Tech Mahindra
+s114,Male,BCA,Information Technology,6,87.29,State Board,2021,91.41,State Board - Science,2023.0,2024,7.02,74.0,Yes,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s115,Male,BCA,Data Analytics,1,88.93,CBSE,2024,61.19,CHSE Odisha - Science,2026.0,2026,7.42,77.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s116,Male,B.Tech,EEE,2,71.51,CBSE,2023,85.14,CBSE - Science,2025.0,2026,6.99,95.0,No,ETABS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s117,Female,B.Sc,Mathematics,4,95.19,State Board,2022,81.88,ISC - Science,2024.0,2025,7.04,56.0,Yes,No Certification,Completed - Infosys,2,Not Placed,Not Placed,Not Placed
+s118,Female,B.Tech,IT,8,91.84,ICSE,2021,71.85,ISC - Science,2023.0,2023,8.32,78.0,No,No Certification,Completed - IBM,1,Not Placed,Not Placed,Not Placed
+s119,Female,B.Sc,Data Science,6,94.49,ICSE,2021,90.16,CHSE Odisha - Commerce,2023.0,2024,6.32,59.0,Yes (Cleared),No Certification,Ongoing - IBM,2,Not Placed,Not Placed,Not Placed
+s120,Male,M.Tech,Power Systems,2,92.34,ICSE,2020,72.82,ISC - Science,2022.0,2026,8.73,97.0,No,Revit,Not Yet,3,Not Placed,Not Placed,Not Placed
+s121,Female,M.Tech,Environmental Engineering,4,80.99,ICSE,2018,76.61,CHSE Odisha - Science,2020.0,2025,8.88,73.0,Yes,AutoCAD,Not Yet,4,Not Placed,Not Placed,Not Placed
+s122,Male,B.Tech,EEE,8,81.17,State Board,2020,78.39,State Board - Science,2022.0,2023,8.89,76.0,No,MATLAB & Simulink,Completed - DRDO,5,Placed - BHEL,Placed,BHEL
+s123,Male,BCA,Computer Applications,4,72.9,CBSE,2023,86.97,CBSE - Science,2025.0,2025,6.43,76.0,No,No Certification,Completed - Cisco,1,Not Placed,Not Placed,Not Placed
+s124,Male,B.Tech,Mechanical,3,87.76,ICSE,2023,67.38,CBSE - Science,2025.0,2025,6.63,74.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s125,Male,B.Tech,ECE,4,71.74,State Board,2023,75.23,CBSE - Science,2025.0,2025,6.27,61.0,Yes,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s126,Male,B.Tech,Civil,8,71.89,CBSE,2021,74.78,ISC - Science,2023.0,2023,8.84,84.0,No,STAAD Pro,Completed - Bosch,3,Placed - Accenture,Placed,Accenture
+s127,Female,B.Tech,Civil,8,75.85,State Board,2020,79.39,State Board - Science,2022.0,2023,7.81,69.0,Yes,Revit,Completed - Siemens,4,Not Placed,Not Placed,Not Placed
+s128,Female,B.Tech,EEE,8,74.54,CBSE,2020,88.94,ISC - Science,2022.0,2023,7.94,70.0,Yes (Cleared),No Certification,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s129,Female,B.Sc,Data Science,2,79.52,CBSE,2024,70.25,ISC - Science,2026.0,2026,7.0,60.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s130,Female,BCA,Multimedia,3,71.47,ICSE,2023,88.97,State Board - Science,2025.0,2025,7.78,80.0,Yes (Cleared),Cisco CCNA,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s131,Male,B.Tech,Civil,8,70.01,State Board,2021,74.13,State Board - Science,2023.0,2023,7.59,82.0,No,No Certification,Completed - Tata Motors,2,Not Placed,Not Placed,Not Placed
+s132,Male,Diploma,Diploma Civil,6,64.34,State Board,2024,,Diploma (Lateral Entry),,2024,7.54,98.0,Yes,ETABS,Completed - TCS,2,Not Placed,Not Placed,Not Placed
+s133,Female,B.Tech,CSE,1,63.87,ICSE,2024,69.51,State Board - Science,2026.0,2026,6.94,77.0,No,Java,Not Yet,0,Not Placed,Not Placed,Not Placed
+s134,Male,M.Tech,Robotics,4,80.18,CBSE,2019,77.72,ISC - Science,2021.0,2025,6.63,68.0,Yes,ML,Not Yet,1,Not Placed,Not Placed,Not Placed
+s135,Male,BCA,Information Technology,1,70.71,CBSE,2023,94.12,CBSE - Science,2025.0,2026,9.29,88.0,No,Java,Not Yet,4,Not Placed,Not Placed,Not Placed
+s136,Male,MCA,Cybersecurity,1,68.49,CBSE,2021,82.91,ISC - Science,2023.0,2026,7.44,76.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s137,Female,B.Tech,CSE,1,87.19,ICSE,2024,87.72,State Board - Science,2026.0,2026,8.12,87.0,No,AWS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s138,Female,BCA,Information Technology,1,74.16,State Board,2023,71.58,CBSE - Science,2025.0,2026,8.96,87.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s139,Male,B.Tech,Mechanical,3,77.06,State Board,2023,71.1,CBSE - Science,2025.0,2025,8.17,88.0,No,Revit,Completed - Tata Motors,2,Not Placed,Not Placed,Not Placed
+s140,Male,BCA,Computer Applications,5,79.73,ICSE,2021,70.47,CHSE Odisha - Arts,2023.0,2024,7.4,62.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s141,Male,M.Tech,VLSI,4,80.2,CBSE,2018,80.53,CBSE - Science,2020.0,2025,7.85,83.0,Yes,Java,Completed - Cisco,5,Not Placed,Not Placed,Not Placed
+s142,Male,B.Tech,CSE,5,73.44,ICSE,2022,82.22,State Board - Science,2024.0,2024,8.26,96.0,No,No Certification,Completed - Microsoft,2,Not Placed,Not Placed,Not Placed
+s143,Male,B.Tech,ECE,8,93.77,CBSE,2021,87.45,ISC - Science,2023.0,2023,8.87,81.0,No,Cisco CCNA,Completed - TCS,3,Placed - IBM,Placed,IBM
+s144,Female,M.Tech,Software Engineering,4,97.81,State Board,2019,61.4,State Board - Science,2021.0,2025,5.84,58.0,Yes,No Certification,Completed - Wipro,1,Not Placed,Not Placed,Not Placed
+s145,Male,B.Tech,IT,1,83.05,ICSE,2024,85.29,CHSE Odisha - Science,2026.0,2026,8.39,82.0,No,ML,Not Yet,2,Not Placed,Not Placed,Not Placed
+s146,Male,B.Tech,Civil,8,55.2,ICSE,2021,91.0,CHSE Odisha - Science,2023.0,2023,7.33,83.0,No,No Certification,Completed - ISRO,0,Placed - Deloitte,Placed,Deloitte
+s147,Male,M.Tech,Structural Engineering,4,72.4,CBSE,2019,79.09,State Board - Science,2021.0,2025,7.35,72.0,Yes (Cleared),ANSYS,Completed - DRDO,2,Placed - Infosys,Placed,Infosys
+s148,Male,B.Tech,Mechanical,2,72.86,ICSE,2024,61.74,State Board - Science,2026.0,2026,6.76,79.0,No,SolidWorks,Not Yet,1,Not Placed,Not Placed,Not Placed
+s149,Female,B.Tech,EEE,8,79.59,CBSE,2021,70.51,State Board - Science,2023.0,2023,7.92,82.0,No,AutoCAD,Completed - Cognizant,1,Placed - Accenture,Placed,Accenture
+s150,Male,B.Tech,Civil,3,77.41,State Board,2023,60.22,State Board - Science,2025.0,2025,7.86,81.0,No,AutoCAD,Completed - ONGC,2,Not Placed,Not Placed,Not Placed
+s151,Male,B.Tech,ECE,8,93.21,ICSE,2020,66.65,ISC - Science,2022.0,2023,7.37,74.0,Yes,SQL,Completed - HCL,4,Not Placed,Not Placed,Not Placed
+s152,Female,B.Tech,IT,6,74.52,State Board,2022,92.25,CBSE - Science,2024.0,2024,6.7,69.0,No,No Certification,Completed - IBM,1,Not Placed,Not Placed,Not Placed
+s153,Female,MCA,Computer Applications,4,70.65,ICSE,2020,81.3,CHSE Odisha - Science,2022.0,2025,9.02,84.0,Yes,SQL,Completed - DRDO,2,Not Placed,Not Placed,Not Placed
+s154,Male,B.Tech,CSE,2,96.63,ICSE,2024,83.03,ISC - Science,2026.0,2026,7.81,77.0,Yes,NPTEL DBMS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s155,Female,B.Sc,Physics,5,84.79,State Board,2021,87.62,ISC - Science,2023.0,2024,6.4,98.0,Yes (Cleared),SQL,Ongoing - DRDO,4,Placed - Deloitte,Placed,Deloitte
+s156,Female,B.Tech,ECE,2,74.1,ICSE,2024,91.84,ISC - Science,2026.0,2026,9.21,100.0,No,ML,Not Yet,2,Not Placed,Not Placed,Not Placed
+s157,Female,B.Sc,Mathematics,1,85.21,CBSE,2023,81.41,CBSE - Science,2025.0,2026,9.02,94.0,No,ML,Not Yet,3,Not Placed,Not Placed,Not Placed
+s158,Male,B.Tech,IT,2,70.76,CBSE,2023,81.58,ISC - Science,2025.0,2026,7.34,64.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s159,Male,B.Tech,Mechanical,8,84.79,ICSE,2021,81.94,CHSE Odisha - Science,2023.0,2023,7.24,77.0,Yes (Cleared),STAAD Pro,Completed - Siemens,1,Placed - Accenture,Placed,Accenture
+s160,Male,B.Tech,ECE,2,97.4,State Board,2023,84.37,CBSE - Science,2025.0,2026,7.38,81.0,Yes,Java,Not Yet,2,Not Placed,Not Placed,Not Placed
+s161,Male,MCA,Data Science,4,94.17,State Board,2020,80.87,ISC - Science,2022.0,2025,9.1,78.0,Yes,Cisco CCNA,Ongoing - Intel,3,Not Placed,Not Placed,Not Placed
+s162,Female,BCA,Computer Applications,6,89.49,CBSE,2022,83.83,ISC - Commerce,2024.0,2024,8.57,72.0,Yes,AWS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s163,Female,B.Tech,IT,2,77.31,CBSE,2024,67.44,State Board - Science,2026.0,2026,5.97,91.0,Yes (Cleared),AWS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s164,Male,B.Tech,CSE,2,80.27,ICSE,2024,83.35,CHSE Odisha - Science,2026.0,2026,8.32,71.0,Yes (Cleared),NPTEL DBMS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s165,Female,B.Tech,ECE,8,74.68,CBSE,2021,76.03,ISC - Science,2023.0,2023,8.83,76.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s166,Male,B.Tech,CSE,1,91.61,ICSE,2023,86.69,CHSE Odisha - Science,2025.0,2026,9.49,94.0,No,Java,Not Yet,4,Not Placed,Not Placed,Not Placed
+s167,Male,B.Tech,Mechanical,8,84.91,CBSE,2021,63.55,CHSE Odisha - Science,2023.0,2023,5.97,94.0,Yes,AutoCAD,Completed - Tata Motors,2,Not Placed,Not Placed,Not Placed
+s168,Female,MCA,Artificial Intelligence,4,91.81,CBSE,2020,66.35,State Board - Science,2022.0,2025,7.76,75.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s169,Female,B.Tech,Mechanical,1,79.23,ICSE,2024,61.29,CHSE Odisha - Science,2026.0,2026,5.95,74.0,Yes (Cleared),No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s170,Male,B.Tech,IT,6,76.25,CBSE,2022,87.11,CBSE - Science,2024.0,2024,8.0,83.0,No,SQL,Completed - Amazon,3,Not Placed,Not Placed,Not Placed
+s171,Male,M.Tech,Power Systems,4,92.72,ICSE,2018,91.99,CBSE - Science,2020.0,2025,8.07,79.0,Yes,No Certification,Completed - JSW Steel,3,Not Placed,Not Placed,Not Placed
+s172,Male,B.Tech,ECE,2,97.58,ICSE,2024,82.95,ISC - Science,2026.0,2026,9.45,92.0,No,ML,Not Yet,1,Not Placed,Not Placed,Not Placed
+s173,Female,B.Sc,Mathematics,1,93.87,CBSE,2024,72.91,CBSE - Science,2026.0,2026,8.75,72.0,No,SQL,Not Yet,3,Not Placed,Not Placed,Not Placed
+s174,Female,B.Tech,Civil,2,92.57,State Board,2024,88.79,State Board - Science,2026.0,2026,7.51,69.0,Yes,ANSYS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s175,Female,B.Tech,Mechanical,8,68.94,ICSE,2020,87.53,CBSE - Science,2022.0,2023,9.22,95.0,No,PLC & SCADA,Completed - TCS,4,Placed - Cognizant,Placed,Cognizant
+s176,Female,B.Tech,IT,8,90.72,State Board,2021,79.67,CBSE - Science,2023.0,2023,10.0,83.0,No,Java,Completed - Microsoft,2,Placed - IBM,Placed,IBM
+s177,Female,B.Tech,CSE,1,61.42,CBSE,2023,69.03,ISC - Science,2025.0,2026,7.15,77.0,No,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s178,Female,B.Tech,IT,8,66.72,CBSE,2021,70.57,CBSE - Science,2023.0,2023,6.98,69.0,Yes,Azure,Not Yet,1,Not Placed,Not Placed,Not Placed
+s179,Male,B.Sc,Data Science,6,79.96,ICSE,2021,74.76,ISC - Commerce,2023.0,2024,8.77,96.0,Yes (Cleared),AWS,Completed - Wipro,5,Placed - Adobe,Placed,Adobe
+s180,Female,B.Tech,Mechanical,2,70.81,ICSE,2024,71.15,State Board - Science,2026.0,2026,8.16,77.0,No,Revit,Not Yet,1,Not Placed,Not Placed,Not Placed
+s181,Female,M.Tech,VLSI,1,70.78,State Board,2020,75.07,CBSE - Science,2022.0,2026,8.39,84.0,No,SQL,Not Yet,2,Not Placed,Not Placed,Not Placed
+s182,Female,B.Tech,IT,4,77.82,CBSE,2023,82.46,CBSE - Science,2025.0,2025,8.41,93.0,No,ML,Completed - Microsoft,2,Not Placed,Not Placed,Not Placed
+s183,Male,B.Tech,IT,8,77.26,State Board,2020,92.69,CBSE - Science,2022.0,2023,8.99,87.0,No,Python,Completed - Intel,5,Placed - Goldman Sachs,Placed,Goldman Sachs
+s184,Male,B.Sc,Data Science,6,89.39,CBSE,2021,61.91,CHSE Odisha - Science,2023.0,2024,8.45,86.0,Yes,Python,Completed - Google,4,Not Placed,Not Placed,Not Placed
+s185,Male,B.Tech,Civil,1,96.78,ICSE,2024,79.86,CHSE Odisha - Science,2026.0,2026,9.35,95.0,No,Revit,Not Yet,2,Not Placed,Not Placed,Not Placed
+s186,Male,B.Tech,EEE,8,82.52,CBSE,2020,61.38,State Board - Science,2022.0,2023,7.79,99.0,No,PLC & SCADA,Completed - IBM,3,Placed - IBM,Placed,IBM
+s187,Female,BCA,Computer Applications,4,96.24,CBSE,2022,64.16,ISC - Arts,2024.0,2025,8.99,85.0,No,SQL,Completed - ISRO,4,Not Placed,Not Placed,Not Placed
+s188,Female,B.Tech,Civil,8,97.67,CBSE,2021,88.36,CHSE Odisha - Science,2023.0,2023,6.52,100.0,Yes,SolidWorks,Completed - Cognizant,2,Not Placed,Not Placed,Not Placed
+s189,Female,B.Tech,Civil,4,96.74,State Board,2023,80.14,CHSE Odisha - Science,2025.0,2025,8.14,78.0,No,PLC & SCADA,Ongoing - Cognizant,3,Not Placed,Not Placed,Not Placed
+s190,Male,B.Tech,EEE,8,80.21,CBSE,2021,92.15,State Board - Science,2023.0,2023,7.56,80.0,No,AutoCAD,Completed - JSW Steel,2,Placed - Mahindra & Mahindra,Placed,Mahindra & Mahindra
+s191,Male,B.Tech,EEE,8,76.17,ICSE,2021,75.63,CBSE - Science,2023.0,2023,6.31,100.0,No,PLC & SCADA,Completed - ISRO,1,Placed - Wipro,Placed,Wipro
+s192,Male,B.Sc,Chemistry,6,76.35,CBSE,2021,60.49,CHSE Odisha - Commerce,2023.0,2024,8.72,85.0,Yes,NPTEL DBMS,Completed - Intel,5,Not Placed,Not Placed,Not Placed
+s193,Female,B.Tech,IT,8,66.7,State Board,2020,73.55,CHSE Odisha - Science,2022.0,2023,6.12,100.0,Yes,SQL,Completed - Intel,4,Not Placed,Not Placed,Not Placed
+s194,Female,B.Tech,IT,8,75.72,CBSE,2021,80.72,CBSE - Science,2023.0,2023,9.12,83.0,No,AWS,Completed - Intel,4,Placed - Accenture,Placed,Accenture
+s195,Male,B.Tech,CSE,8,87.47,CBSE,2021,92.82,CBSE - Science,2023.0,2023,7.49,68.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s196,Male,BCA,Information Technology,3,95.21,ICSE,2023,94.33,CBSE - Science,2025.0,2025,7.85,81.0,No,ML,Completed - TCS,2,Not Placed,Not Placed,Not Placed
+s197,Male,M.Sc,Mathematics,2,52.77,ICSE,2020,76.64,CBSE - Science,2022.0,2026,8.18,91.0,No,Python,Not Yet,3,Not Placed,Not Placed,Not Placed
+s198,Female,B.Tech,Civil,8,83.43,State Board,2020,74.43,CHSE Odisha - Science,2022.0,2023,7.05,77.0,Yes (Cleared),ETABS,Completed - L&T,3,Placed - Tech Mahindra,Placed,Tech Mahindra
+s199,Female,B.Tech,Mechanical,1,88.28,ICSE,2023,63.57,State Board - Science,2025.0,2026,7.36,93.0,No,PLC & SCADA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s200,Female,B.Tech,IT,4,92.39,State Board,2022,82.56,State Board - Science,2024.0,2025,9.62,97.0,No,No Certification,Ongoing - DRDO,4,Not Placed,Not Placed,Not Placed
+s201,Female,M.Sc,Physics,1,72.37,CBSE,2020,67.43,State Board - Science,2022.0,2026,8.15,91.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s202,Female,B.Tech,Civil,3,88.5,CBSE,2023,65.31,CBSE - Science,2025.0,2025,8.2,83.0,No,ETABS,Completed - L&T,1,Not Placed,Not Placed,Not Placed
+s203,Female,M.Tech,Communication Systems,4,95.47,CBSE,2019,60.54,CBSE - Science,2021.0,2025,7.96,82.0,No,Java,Completed - Intel,2,Placed - Accenture,Placed,Accenture
+s204,Male,MCA,Cloud Computing,4,91.9,ICSE,2019,60.17,ISC - Science,2021.0,2025,6.56,89.0,Yes,ML,Completed - ISRO,3,Not Placed,Not Placed,Not Placed
+s205,Male,B.Tech,CSE,8,91.0,CBSE,2021,83.93,CHSE Odisha - Science,2023.0,2023,8.28,79.0,No,Java,Completed - Cisco,3,Placed - Adobe,Placed,Adobe
+s206,Male,Diploma,Diploma Electrical,6,83.38,CBSE,2024,,Diploma (Lateral Entry),,2024,8.55,94.0,Yes,ETABS,Completed - JSW Steel,2,Not Placed,Not Placed,Not Placed
+s207,Male,B.Tech,IT,2,75.0,State Board,2024,93.82,ISC - Science,2026.0,2026,7.51,68.0,Yes (Cleared),Java,Not Yet,1,Not Placed,Not Placed,Not Placed
+s208,Female,B.Tech,Mechanical,8,92.1,State Board,2020,63.08,ISC - Science,2022.0,2023,7.26,80.0,No,No Certification,Completed - Ashok Leyland,2,Placed - TCS,Placed,TCS
+s209,Male,MCA,Data Science,2,79.31,State Board,2021,90.43,CHSE Odisha - Science,2023.0,2026,8.71,86.0,No,Python,Not Yet,1,Not Placed,Not Placed,Not Placed
+s210,Female,B.Tech,CSE,1,92.42,ICSE,2024,64.51,CBSE - Science,2026.0,2026,8.73,94.0,No,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s211,Male,MCA,Cloud Computing,4,97.21,CBSE,2020,60.62,ISC - Science,2022.0,2025,8.47,88.0,Yes,ML,Ongoing - Google,3,Not Placed,Not Placed,Not Placed
+s212,Male,MCA,Cloud Computing,1,81.08,ICSE,2020,85.18,CBSE - Science,2022.0,2026,7.67,72.0,Yes (Cleared),AWS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s213,Female,B.Tech,ECE,8,81.24,State Board,2020,68.48,CBSE - Science,2022.0,2023,8.1,69.0,Yes (Cleared),AWS,Completed - Cisco,3,Placed - Amazon,Placed,Amazon
+s214,Male,M.Tech,VLSI,2,60.97,State Board,2020,85.67,ISC - Science,2022.0,2026,8.38,80.5,No,ML,Not Yet,1,Not Placed,Not Placed,Not Placed
+s215,Female,B.Tech,IT,2,90.29,ICSE,2023,66.56,CHSE Odisha - Science,2025.0,2026,8.79,87.0,No,SQL,Not Yet,3,Not Placed,Not Placed,Not Placed
+s216,Female,B.Tech,Civil,8,66.77,ICSE,2021,61.75,State Board - Science,2023.0,2023,6.92,84.0,No,No Certification,Completed - Mahindra & Mahindra,1,Not Placed,Not Placed,Not Placed
+s217,Female,B.Tech,EEE,2,73.56,ICSE,2024,87.09,State Board - Science,2026.0,2026,7.64,84.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s218,Female,M.Tech,Power Systems,4,74.23,ICSE,2018,84.97,CBSE - Science,2020.0,2025,8.4,96.0,Yes,STAAD Pro,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s219,Female,B.Tech,IT,4,95.34,CBSE,2022,89.94,CBSE - Science,2024.0,2025,8.09,78.0,Yes (Cleared),No Certification,Completed - Infosys,2,Not Placed,Not Placed,Not Placed
+s220,Male,B.Tech,EEE,2,92.58,CBSE,2023,85.54,CHSE Odisha - Science,2025.0,2026,8.2,65.0,Yes (Cleared),PLC & SCADA,Not Yet,3,Not Placed,Not Placed,Not Placed
+s221,Female,B.Tech,Mechanical,2,62.67,CBSE,2023,62.95,State Board - Science,2025.0,2026,7.45,69.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s222,Female,B.Tech,EEE,8,93.14,CBSE,2021,82.0,CBSE - Science,2023.0,2023,7.31,85.0,No,SolidWorks,Completed - IBM,2,Placed - Deloitte,Placed,Deloitte
+s223,Female,B.Tech,IT,2,97.45,ICSE,2024,84.82,State Board - Science,2026.0,2026,9.12,83.0,No,Java,Not Yet,1,Not Placed,Not Placed,Not Placed
+s224,Male,MCA,Computer Applications,1,88.4,CBSE,2021,76.12,CBSE - Science,2023.0,2026,8.81,92.0,No,Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s225,Female,MCA,Computer Applications,1,79.81,ICSE,2021,92.63,CHSE Odisha - Science,2023.0,2026,9.66,85.0,No,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s226,Female,B.Tech,ECE,8,85.36,ICSE,2021,68.89,CHSE Odisha - Science,2023.0,2023,8.4,77.0,No,ML,Completed - DRDO,2,Placed - Goldman Sachs,Placed,Goldman Sachs
+s227,Male,B.Tech,Civil,2,73.67,CBSE,2023,93.75,CHSE Odisha - Science,2025.0,2026,8.21,80.0,No,ANSYS,Not Yet,4,Not Placed,Not Placed,Not Placed
+s228,Female,B.Tech,CSE,4,70.4,State Board,2023,85.1,CBSE - Science,2025.0,2025,8.28,80.0,No,No Certification,Completed - Intel,2,Not Placed,Not Placed,Not Placed
+s229,Male,B.Tech,Civil,6,97.18,CBSE,2021,60.4,CHSE Odisha - Science,2023.0,2024,7.11,66.0,Yes,ETABS,Completed - L&T,3,Not Placed,Not Placed,Not Placed
+s230,Female,BCA,Multimedia,1,88.19,ICSE,2024,60.52,CHSE Odisha - Science,2026.0,2026,7.78,100.0,No,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s231,Female,B.Tech,Mechanical,3,84.74,ICSE,2022,82.77,ISC - Science,2024.0,2025,7.42,71.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s232,Female,BCA,Information Technology,6,56.78,ICSE,2022,88.61,CBSE - Science,2024.0,2024,8.28,76.0,No,No Certification,Completed - Cisco,2,Not Placed,Not Placed,Not Placed
+s233,Female,MCA,Artificial Intelligence,4,82.15,ICSE,2020,62.79,State Board - Science,2022.0,2025,8.01,89.0,Yes,SQL,Completed - TCS,3,Not Placed,Not Placed,Not Placed
+s234,Male,B.Tech,Mechanical,2,94.41,CBSE,2024,70.89,ISC - Science,2026.0,2026,7.54,67.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s235,Male,B.Tech,Mechanical,8,61.62,CBSE,2021,85.53,State Board - Science,2023.0,2023,6.84,88.0,No,SolidWorks,Completed - IBM,1,Placed - Cognizant,Placed,Cognizant
+s236,Female,B.Tech,Civil,1,75.76,State Board,2023,65.81,ISC - Science,2025.0,2026,6.9,74.0,Yes,ETABS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s237,Male,B.Tech,ECE,8,77.05,ICSE,2021,90.13,State Board - Science,2023.0,2023,8.9,84.0,No,SQL,Completed - Cognizant,3,Placed - Goldman Sachs,Placed,Goldman Sachs
+s238,Male,B.Tech,ECE,2,78.2,CBSE,2024,77.02,CBSE - Science,2026.0,2026,8.67,74.0,Yes,Python,Not Yet,1,Not Placed,Not Placed,Not Placed
+s239,Male,B.Tech,Mechanical,4,90.18,ICSE,2022,62.09,CHSE Odisha - Science,2024.0,2025,8.33,83.0,No,AutoCAD,Completed - Siemens,3,Not Placed,Not Placed,Not Placed
+s240,Female,BCA,Computer Applications,6,86.42,State Board,2022,72.86,State Board - Science,2024.0,2024,7.8,77.0,Yes,NPTEL DBMS,Completed - Wipro,2,Not Placed,Not Placed,Not Placed
+s241,Male,B.Tech,IT,2,77.26,ICSE,2023,80.12,CHSE Odisha - Science,2025.0,2026,7.96,86.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s242,Female,B.Tech,ECE,8,81.73,CBSE,2020,75.36,State Board - Science,2022.0,2023,7.18,91.0,No,No Certification,Completed - ISRO,3,Placed - Accenture,Placed,Accenture
+s243,Female,B.Tech,ECE,2,73.67,ICSE,2023,83.69,ISC - Science,2025.0,2026,7.91,95.0,No,Azure,Not Yet,4,Not Placed,Not Placed,Not Placed
+s244,Male,B.Tech,Mechanical,2,95.48,ICSE,2024,65.07,State Board - Science,2026.0,2026,9.63,84.0,No,ANSYS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s245,Male,B.Sc,Physics,6,79.91,State Board,2022,87.91,State Board - Science,2024.0,2024,7.2,80.0,Yes,Python,Completed - Infosys,1,Not Placed,Not Placed,Not Placed
+s246,Female,B.Tech,ECE,1,82.83,ICSE,2023,72.71,CBSE - Science,2025.0,2026,8.08,80.0,No,Cisco CCNA,Not Yet,4,Not Placed,Not Placed,Not Placed
+s247,Female,MCA,Computer Applications,4,86.33,CBSE,2020,82.57,CHSE Odisha - Science,2022.0,2025,8.63,81.0,Yes,No Certification,Completed - TCS,3,Not Placed,Not Placed,Not Placed
+s248,Male,B.Tech,Civil,4,52.73,State Board,2022,82.04,CBSE - Science,2024.0,2025,7.44,92.0,No,AutoCAD,Completed - Siemens,4,Not Placed,Not Placed,Not Placed
+s249,Male,B.Tech,EEE,2,56.86,ICSE,2023,74.63,CHSE Odisha - Science,2025.0,2026,8.32,81.0,No,ETABS,Not Yet,4,Not Placed,Not Placed,Not Placed
+s250,Male,M.Sc,Physics,4,60.89,CBSE,2019,73.5,CHSE Odisha - Science,2021.0,2025,8.78,90.0,Yes,No Certification,Ongoing - Amazon,4,Placed - Cognizant,Placed,Cognizant
+s251,Female,B.Tech,Mechanical,1,84.05,State Board,2024,87.52,ISC - Science,2026.0,2026,7.4,82.8,No,MATLAB & Simulink,Not Yet,1,Not Placed,Not Placed,Not Placed
+s252,Female,M.Tech,Structural Engineering,4,84.89,ICSE,2019,93.07,State Board - Science,2021.0,2025,8.53,95.0,Yes,Revit,Completed - L&T,3,Not Placed,Not Placed,Not Placed
+s253,Male,B.Tech,EEE,8,84.66,CBSE,2020,87.46,CHSE Odisha - Science,2022.0,2023,10.0,82.0,No,STAAD Pro,Completed - Mahindra & Mahindra,5,Placed - NTPC,Placed,NTPC
+s254,Male,B.Sc,Data Science,5,70.52,ICSE,2022,79.84,CBSE - Science,2024.0,2024,8.48,81.6,No,No Certification,Completed - Cognizant,2,Not Placed,Not Placed,Not Placed
+s255,Female,B.Tech,ECE,8,82.32,CBSE,2021,70.23,ISC - Science,2023.0,2023,6.8,60.0,Yes (Cleared),Java,Completed - Oracle,1,Placed - Adobe,Placed,Adobe
+s256,Female,B.Tech,CSE,6,75.13,ICSE,2022,62.12,State Board - Science,2024.0,2024,6.34,92.0,No,Python,Completed - HCL,2,Not Placed,Not Placed,Not Placed
+s257,Female,B.Tech,EEE,8,70.11,CBSE,2020,94.09,ISC - Science,2022.0,2023,7.86,66.0,Yes,No Certification,Completed - Siemens,4,Not Placed,Not Placed,Not Placed
+s258,Female,B.Tech,Civil,3,58.4,CBSE,2022,84.61,CBSE - Science,2024.0,2025,8.15,94.0,No,No Certification,Completed - Bosch,3,Not Placed,Not Placed,Not Placed
+s259,Male,B.Tech,Civil,2,74.83,ICSE,2024,88.96,ISC - Science,2026.0,2026,8.44,67.0,Yes (Cleared),ANSYS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s260,Female,B.Tech,Mechanical,1,83.26,CBSE,2024,71.62,State Board - Science,2026.0,2026,7.9,85.0,No,STAAD Pro,Not Yet,1,Not Placed,Not Placed,Not Placed
+s261,Male,MCA,Computer Applications,4,58.48,State Board,2020,81.2,ISC - Science,2022.0,2025,7.65,71.0,Yes,Cisco CCNA,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s262,Male,B.Tech,Civil,8,67.86,CBSE,2020,94.21,State Board - Science,2022.0,2023,7.16,72.0,Yes (Cleared),AutoCAD,Completed - HCL,4,Placed - Accenture,Placed,Accenture
+s263,Female,M.Sc,Physics,4,77.19,State Board,2020,89.1,CBSE - Science,2022.0,2025,7.6,63.0,Yes,NPTEL DBMS,Completed - Intel,2,Not Placed,Not Placed,Not Placed
+s264,Male,M.Tech,Power Systems,3,84.51,ICSE,2019,81.04,CBSE - Science,2021.0,2025,8.08,77.0,No,ETABS,Completed - JSW Steel,3,Placed - IBM,Placed,IBM
+s265,Male,BCA,Multimedia,2,85.55,ICSE,2023,70.8,State Board - Science,2025.0,2026,7.52,57.0,Yes,AWS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s266,Female,B.Tech,EEE,4,91.96,ICSE,2022,75.0,ISC - Science,2024.0,2025,6.87,77.0,No,No Certification,Completed - L&T,2,Not Placed,Not Placed,Not Placed
+s267,Female,B.Tech,ECE,2,72.97,ICSE,2023,91.08,CHSE Odisha - Science,2025.0,2026,7.48,60.0,Yes,Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s268,Female,B.Tech,IT,5,85.69,State Board,2021,73.18,State Board - Science,2023.0,2024,8.71,91.0,No,SQL,Not Yet,3,Not Placed,Not Placed,Not Placed
+s269,Female,B.Tech,CSE,8,61.92,CBSE,2021,83.97,CHSE Odisha - Science,2023.0,2023,6.9,75.0,No,Cisco CCNA,Completed - HCL,2,Placed - Wipro,Placed,Wipro
+s270,Male,B.Tech,Mechanical,5,77.75,ICSE,2022,81.06,State Board - Science,2024.0,2024,8.48,96.0,No,No Certification,Completed - DRDO,2,Not Placed,Not Placed,Not Placed
+s271,Female,B.Sc,Physics,2,91.62,State Board,2023,91.36,ISC - Science,2025.0,2026,8.8,79.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s272,Female,B.Tech,IT,8,84.22,State Board,2020,88.26,ISC - Science,2022.0,2023,6.64,85.0,Yes,SQL,Not Yet,2,Not Placed,Not Placed,Not Placed
+s273,Female,BCA,Computer Applications,6,85.73,State Board,2021,69.92,CHSE Odisha - Science,2023.0,2024,7.53,77.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s274,Male,B.Tech,Mechanical,3,91.28,ICSE,2022,60.06,State Board - Science,2024.0,2025,6.44,73.0,No,No Certification,Ongoing - Mahindra & Mahindra,3,Not Placed,Not Placed,Not Placed
+s275,Male,MCA,Artificial Intelligence,4,95.55,ICSE,2020,69.21,CBSE - Science,2022.0,2025,9.74,92.0,Yes,Python,Ongoing - Amazon,3,Placed - TCS,Placed,TCS
+s276,Male,B.Tech,Mechanical,5,82.41,ICSE,2022,74.79,ISC - Science,2024.0,2024,7.22,90.0,No,ANSYS,Completed - Tata Motors,2,Not Placed,Not Placed,Not Placed
+s277,Female,B.Tech,ECE,2,87.15,CBSE,2023,80.53,CBSE - Science,2025.0,2026,7.72,71.0,Yes,ML,Not Yet,3,Not Placed,Not Placed,Not Placed
+s278,Male,B.Tech,CSE,4,84.16,State Board,2022,88.56,ISC - Science,2024.0,2025,7.63,72.0,Yes (Cleared),Python,Completed - Google,3,Not Placed,Not Placed,Not Placed
+s279,Female,B.Tech,CSE,2,84.34,State Board,2023,91.06,CHSE Odisha - Science,2025.0,2026,6.83,88.0,Yes,ML,Not Yet,2,Not Placed,Not Placed,Not Placed
+s280,Female,B.Tech,Mechanical,8,89.4,State Board,2020,61.48,CHSE Odisha - Science,2022.0,2023,8.43,76.0,No,No Certification,Completed - TCS,3,Placed - Wipro,Placed,Wipro
+s281,Female,B.Tech,Civil,1,82.67,CBSE,2023,89.16,CHSE Odisha - Science,2025.0,2026,8.6,74.0,No,AutoCAD,Not Yet,4,Not Placed,Not Placed,Not Placed
+s282,Male,B.Tech,CSE,4,84.93,CBSE,2023,88.41,CBSE - Science,2025.0,2025,8.64,98.0,No,Java,Ongoing - Intel,3,Not Placed,Not Placed,Not Placed
+s283,Male,B.Tech,Civil,8,83.39,CBSE,2021,90.35,CHSE Odisha - Science,2023.0,2023,6.73,95.0,Yes,No Certification,Completed - Mahindra & Mahindra,1,Not Placed,Not Placed,Not Placed
+s284,Male,B.Tech,CSE,2,96.36,CBSE,2024,80.02,ISC - Science,2026.0,2026,8.04,83.0,Yes,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s285,Female,B.Tech,CSE,4,68.88,ICSE,2023,69.58,CHSE Odisha - Science,2025.0,2025,6.65,85.0,Yes,Cisco CCNA,Completed - Microsoft,2,Not Placed,Not Placed,Not Placed
+s286,Female,B.Tech,Mechanical,8,94.54,State Board,2021,89.79,State Board - Science,2023.0,2023,9.59,94.0,No,No Certification,Completed - DRDO,1,Not Placed,Not Placed,Not Placed
+s287,Male,MCA,Computer Applications,1,96.38,ICSE,2021,88.25,State Board - Science,2023.0,2026,7.84,85.0,Yes (Cleared),Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s288,Male,M.Tech,Robotics,4,77.27,ICSE,2019,83.96,CHSE Odisha - Science,2021.0,2025,7.7,81.0,Yes,No Certification,Completed - Cognizant,2,Not Placed,Not Placed,Not Placed
+s289,Male,MCA,Data Science,4,85.67,ICSE,2020,91.98,CHSE Odisha - Science,2022.0,2025,8.31,92.0,Yes (Cleared),No Certification,Ongoing - Google,2,Placed - HCL,Placed,HCL
+s290,Female,M.Tech,Structural Engineering,1,96.41,ICSE,2020,72.14,ISC - Science,2022.0,2026,5.75,76.0,Yes,ETABS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s291,Male,B.Tech,ECE,8,68.78,ICSE,2021,62.98,ISC - Science,2023.0,2023,6.61,82.0,No,No Certification,Completed - Infosys,0,Placed - IBM,Placed,IBM
+s292,Female,B.Tech,ECE,8,73.84,CBSE,2021,79.38,CHSE Odisha - Science,2023.0,2023,6.85,65.0,Yes,Python,Completed - Infosys,1,Not Placed,Not Placed,Not Placed
+s293,Female,B.Sc,Data Science,1,73.41,ICSE,2023,87.91,State Board - Science,2025.0,2026,6.63,75.0,No,Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s294,Male,B.Tech,Mechanical,1,82.38,CBSE,2024,67.02,State Board - Science,2026.0,2026,8.84,97.0,No,ETABS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s295,Male,B.Tech,Mechanical,8,72.03,CBSE,2021,86.26,CHSE Odisha - Science,2023.0,2023,8.69,87.0,No,PLC & SCADA,Completed - IBM,2,Placed - Tata Motors,Placed,Tata Motors
+s296,Female,B.Tech,Mechanical,1,76.74,State Board,2024,92.61,ISC - Science,2026.0,2026,8.68,75.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s297,Female,B.Sc,Chemistry,2,72.05,ICSE,2023,68.19,State Board - Science,2025.0,2026,5.94,62.0,Yes,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s298,Male,B.Tech,ECE,8,88.75,State Board,2021,81.24,CHSE Odisha - Science,2023.0,2023,7.54,77.0,No,Python,Completed - Infosys,2,Placed - Adobe,Placed,Adobe
+s299,Female,B.Tech,Civil,3,91.95,CBSE,2023,83.72,CHSE Odisha - Science,2025.0,2025,6.4,85.0,No,ANSYS,Completed - DRDO,2,Not Placed,Not Placed,Not Placed
+s300,Female,B.Tech,Civil,1,95.12,State Board,2024,76.29,State Board - Science,2026.0,2026,7.81,74.0,Yes,STAAD Pro,Not Yet,1,Not Placed,Not Placed,Not Placed
+s301,Female,B.Tech,CSE,1,74.32,CBSE,2024,67.23,CHSE Odisha - Science,2026.0,2026,6.79,65.0,Yes,Java,Not Yet,0,Not Placed,Not Placed,Not Placed
+s302,Male,B.Sc,Physics,4,90.05,ICSE,2023,68.92,ISC - Science,2025.0,2025,8.5,89.0,No,No Certification,Ongoing - DRDO,3,Not Placed,Not Placed,Not Placed
+s303,Male,BCA,Computer Applications,1,88.49,ICSE,2024,86.29,State Board - Science,2026.0,2026,8.48,85.0,No,AWS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s304,Female,M.Sc,Chemistry,4,74.0,ICSE,2020,87.71,ISC - Science,2022.0,2025,8.0,86.0,Yes,Python,Ongoing - Intel,3,Not Placed,Not Placed,Not Placed
+s305,Female,B.Tech,CSE,1,94.72,ICSE,2023,76.09,CHSE Odisha - Science,2025.0,2026,8.34,82.0,No,Azure,Not Yet,3,Not Placed,Not Placed,Not Placed
+s306,Male,BCA,Computer Applications,6,97.09,State Board,2021,63.07,State Board - Science,2023.0,2024,8.91,94.0,Yes,SQL,Completed - ISRO,5,Not Placed,Not Placed,Not Placed
+s307,Male,M.Tech,Thermal Engineering,4,76.15,CBSE,2019,88.23,CHSE Odisha - Science,2021.0,2025,8.2,79.0,Yes,Revit,Completed - Infosys,3,Not Placed,Not Placed,Not Placed
+s308,Male,B.Tech,CSE,1,96.67,State Board,2024,87.03,CHSE Odisha - Science,2026.0,2026,9.52,80.0,Yes (Cleared),SQL,Not Yet,2,Not Placed,Not Placed,Not Placed
+s309,Male,B.Tech,CSE,8,81.15,CBSE,2020,68.15,CBSE - Science,2022.0,2023,7.65,71.0,No,SQL,Not Yet,3,Placed - Adobe,Placed,Adobe
+s310,Female,B.Sc,Chemistry,4,83.64,ICSE,2023,80.29,CBSE - Science,2025.0,2025,9.39,93.0,No,SQL,Ongoing - Amazon,3,Not Placed,Not Placed,Not Placed
+s311,Male,B.Tech,ECE,8,97.72,CBSE,2021,91.39,ISC - Science,2023.0,2023,8.1,67.0,Yes,Azure,Completed - Cisco,3,Not Placed,Not Placed,Not Placed
+s312,Male,B.Tech,CSE,8,93.31,CBSE,2021,90.98,State Board - Science,2023.0,2023,9.0,68.0,No,No Certification,Completed - Cisco,1,Not Placed,Not Placed,Not Placed
+s313,Male,B.Tech,ECE,1,74.52,ICSE,2024,78.27,CBSE - Science,2026.0,2026,8.66,90.0,No,Python,Not Yet,1,Not Placed,Not Placed,Not Placed
+s314,Female,B.Tech,CSE,2,82.08,CBSE,2023,76.68,CHSE Odisha - Science,2025.0,2026,7.5,75.0,No,ML,Not Yet,4,Not Placed,Not Placed,Not Placed
+s315,Male,B.Tech,CSE,3,84.44,State Board,2022,80.63,ISC - Science,2024.0,2025,8.91,83.0,Yes (Cleared),No Certification,Completed - Amazon,4,Not Placed,Not Placed,Not Placed
+s316,Male,B.Sc,Data Science,6,79.5,CBSE,2021,66.62,CBSE - Science,2023.0,2024,8.0,93.0,Yes,Cisco CCNA,Not Yet,3,Not Placed,Not Placed,Not Placed
+s317,Male,B.Tech,ECE,3,75.48,ICSE,2023,66.73,State Board - Science,2025.0,2025,7.17,82.0,No,Cisco CCNA,Completed - Wipro,2,Not Placed,Not Placed,Not Placed
+s318,Female,M.Tech,Thermal Engineering,4,78.92,State Board,2019,66.32,CBSE - Science,2021.0,2025,7.66,84.0,No,No Certification,Completed - Tata Motors,1,Not Placed,Not Placed,Not Placed
+s319,Male,B.Tech,IT,1,90.22,State Board,2024,84.54,CHSE Odisha - Science,2026.0,2026,8.93,84.0,No,SQL,Not Yet,2,Not Placed,Not Placed,Not Placed
+s320,Male,MCA,Data Science,4,70.55,ICSE,2020,72.7,CHSE Odisha - Science,2022.0,2025,7.36,67.0,Yes (Cleared),NPTEL DBMS,Completed - Wipro,2,Placed - Deloitte,Placed,Deloitte
+s321,Male,B.Tech,ECE,8,85.51,CBSE,2021,79.76,ISC - Science,2023.0,2023,8.43,88.0,No,NPTEL DBMS,Completed - IBM,3,Placed - IBM,Placed,IBM
+s322,Male,B.Sc,Data Science,6,82.33,ICSE,2021,74.09,CHSE Odisha - Science,2023.0,2024,7.01,68.0,Yes (Cleared),Cisco CCNA,Completed - Infosys,3,Not Placed,Not Placed,Not Placed
+s323,Female,MCA,Artificial Intelligence,2,70.51,CBSE,2020,78.1,CBSE - Science,2022.0,2026,7.57,72.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s324,Female,M.Tech,Environmental Engineering,4,79.28,CBSE,2019,65.22,CBSE - Science,2021.0,2025,8.74,98.0,Yes,AutoCAD,Ongoing - TCS,3,Not Placed,Not Placed,Not Placed
+s325,Male,B.Sc,Physics,6,87.47,ICSE,2021,61.56,ISC - Science,2023.0,2024,7.73,75.0,Yes,NPTEL DBMS,Not Yet,4,Not Placed,Not Placed,Not Placed
+s326,Male,M.Tech,Machine Learning,4,84.34,State Board,2018,94.9,ISC - Science,2020.0,2025,9.32,69.0,Yes,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s327,Female,B.Tech,ECE,8,71.8,CBSE,2021,73.09,CHSE Odisha - Science,2023.0,2023,8.59,92.0,No,Java,Completed - Intel,3,Placed - IBM,Placed,IBM
+s328,Male,M.Sc,Physics,4,97.58,CBSE,2020,63.71,CBSE - Science,2022.0,2025,9.46,89.0,Yes,NPTEL DBMS,Ongoing - Intel,4,Not Placed,Not Placed,Not Placed
+s329,Male,B.Tech,Mechanical,8,92.07,CBSE,2021,82.15,ISC - Science,2023.0,2023,9.6,85.0,Yes,ANSYS,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s330,Male,B.Tech,IT,3,59.11,ICSE,2023,87.56,CBSE - Science,2025.0,2025,8.35,74.0,Yes (Cleared),No Certification,Completed - TCS,1,Not Placed,Not Placed,Not Placed
+s331,Female,B.Tech,Mechanical,5,72.93,ICSE,2022,65.47,CHSE Odisha - Science,2024.0,2024,7.79,77.0,No,MATLAB & Simulink,Not Yet,2,Not Placed,Not Placed,Not Placed
+s332,Male,B.Tech,ECE,1,66.25,State Board,2023,80.9,ISC - Science,2025.0,2026,7.76,82.0,Yes (Cleared),No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s333,Female,Diploma,Diploma CSE,6,71.11,ICSE,2024,,Diploma (Lateral Entry),,2024,6.94,81.0,Yes,Azure,Not Yet,0,Not Placed,Not Placed,Not Placed
+s334,Female,B.Tech,EEE,8,91.81,CBSE,2021,78.18,State Board - Science,2023.0,2023,8.47,85.0,No,ANSYS,Completed - BHEL,2,Placed - Tech Mahindra,Placed,Tech Mahindra
+s335,Male,M.Sc,Chemistry,4,77.57,CBSE,2020,60.72,ISC - Science,2022.0,2025,7.84,80.0,No,SQL,Not Yet,1,Placed - Accenture,Placed,Accenture
+s336,Male,B.Tech,Mechanical,1,73.63,CBSE,2024,64.44,ISC - Science,2026.0,2026,7.67,75.0,No,SolidWorks,Not Yet,1,Not Placed,Not Placed,Not Placed
+s337,Female,B.Tech,Mechanical,1,81.82,ICSE,2023,94.66,State Board - Science,2025.0,2026,8.01,76.0,No,Revit,Not Yet,3,Not Placed,Not Placed,Not Placed
+s338,Male,B.Tech,IT,8,95.52,ICSE,2020,90.31,State Board - Science,2022.0,2023,8.97,70.0,Yes,No Certification,Completed - Microsoft,3,Not Placed,Not Placed,Not Placed
+s339,Male,M.Tech,Embedded Systems,4,92.93,State Board,2019,77.02,CHSE Odisha - Science,2021.0,2025,9.21,81.0,Yes,No Certification,Ongoing - DRDO,3,Not Placed,Not Placed,Not Placed
+s340,Female,B.Tech,IT,1,77.24,State Board,2024,79.85,ISC - Science,2026.0,2026,8.42,83.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s341,Female,B.Tech,IT,2,74.18,CBSE,2024,69.16,CHSE Odisha - Science,2026.0,2026,6.63,88.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s342,Male,B.Tech,ECE,4,52.96,State Board,2023,87.27,CBSE - Science,2025.0,2025,6.81,95.0,No,SQL,Not Yet,1,Not Placed,Not Placed,Not Placed
+s343,Female,B.Tech,Mechanical,2,85.98,State Board,2024,74.91,ISC - Science,2026.0,2026,8.8,89.0,Yes (Cleared),ETABS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s344,Male,B.Tech,IT,1,89.61,State Board,2024,93.13,ISC - Science,2026.0,2026,7.26,80.0,Yes (Cleared),No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s345,Male,B.Tech,EEE,4,72.5,CBSE,2023,86.85,State Board - Science,2025.0,2025,7.82,74.0,No,No Certification,Ongoing - Cognizant,2,Not Placed,Not Placed,Not Placed
+s346,Male,M.Tech,Machine Learning,4,71.61,ICSE,2019,88.66,CBSE - Science,2021.0,2025,9.29,84.0,Yes,SQL,Ongoing - ISRO,4,Not Placed,Not Placed,Not Placed
+s347,Male,B.Tech,ECE,1,62.7,ICSE,2024,93.72,State Board - Science,2026.0,2026,8.72,99.0,No,SQL,Not Yet,3,Not Placed,Not Placed,Not Placed
+s348,Male,M.Sc,Physics,4,81.91,ICSE,2020,68.89,CHSE Odisha - Science,2022.0,2025,8.2,92.0,Yes,No Certification,Ongoing - Microsoft,1,Not Placed,Not Placed,Not Placed
+s349,Male,B.Tech,IT,1,72.03,State Board,2024,61.33,State Board - Science,2026.0,2026,6.6,77.0,No,Cisco CCNA,Not Yet,1,Not Placed,Not Placed,Not Placed
+s350,Female,B.Tech,CSE,1,96.27,ICSE,2024,67.03,ISC - Science,2026.0,2026,8.58,75.0,No,AWS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s351,Male,B.Tech,Mechanical,8,87.76,ICSE,2021,66.33,CBSE - Science,2023.0,2023,7.37,85.0,Yes (Cleared),PLC & SCADA,Completed - Mahindra & Mahindra,2,Placed - Infosys,Placed,Infosys
+s352,Male,B.Sc,Data Science,3,92.45,ICSE,2022,62.93,CHSE Odisha - Commerce,2024.0,2025,6.65,86.0,No,ML,Not Yet,2,Not Placed,Not Placed,Not Placed
+s353,Female,MCA,Data Science,1,72.34,State Board,2020,61.78,ISC - Science,2022.0,2026,8.0,79.0,No,AWS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s354,Male,M.Tech,Environmental Engineering,4,55.8,ICSE,2019,79.51,CBSE - Science,2021.0,2025,7.22,75.0,Yes,ETABS,Completed - Bosch,1,Not Placed,Not Placed,Not Placed
+s355,Male,B.Tech,Mechanical,4,71.87,CBSE,2023,90.47,ISC - Science,2025.0,2025,9.3,94.0,No,STAAD Pro,Not Yet,1,Not Placed,Not Placed,Not Placed
+s356,Male,B.Tech,EEE,8,94.16,ICSE,2020,76.04,CHSE Odisha - Science,2022.0,2023,8.51,91.0,No,Revit,Completed - TCS,4,Placed - Infosys,Placed,Infosys
+s357,Male,B.Tech,CSE,4,82.71,CBSE,2023,93.15,CBSE - Science,2025.0,2025,7.5,77.0,No,Python,Ongoing - Microsoft,1,Not Placed,Not Placed,Not Placed
+s358,Female,B.Tech,Civil,2,79.5,CBSE,2024,91.85,State Board - Science,2026.0,2026,9.22,90.0,No,ANSYS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s359,Male,B.Tech,ECE,2,85.49,CBSE,2023,62.25,CBSE - Science,2025.0,2026,5.23,79.0,No,AWS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s360,Male,M.Tech,Software Engineering,1,95.95,CBSE,2020,80.93,CHSE Odisha - Science,2022.0,2026,8.14,80.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s361,Female,MCA,Artificial Intelligence,4,77.5,CBSE,2020,73.91,State Board - Science,2022.0,2025,7.67,79.0,Yes (Cleared),Java,Not Yet,2,Placed - Microsoft,Placed,Microsoft
+s362,Male,B.Tech,IT,8,73.62,ICSE,2020,64.2,CHSE Odisha - Science,2022.0,2023,7.55,79.0,No,Python,Completed - IBM,3,Placed - Adobe,Placed,Adobe
+s363,Female,Diploma,Diploma Electrical,5,84.75,State Board,2024,,Diploma (Lateral Entry),,2024,9.34,100.0,No,SolidWorks,Completed - NTPC,3,Placed - Mahindra & Mahindra,Placed,Mahindra & Mahindra
+s364,Female,B.Tech,EEE,2,76.68,CBSE,2024,69.0,CHSE Odisha - Science,2026.0,2026,7.28,66.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s365,Female,MCA,Computer Applications,4,73.06,ICSE,2019,79.76,State Board - Science,2021.0,2025,7.66,95.0,Yes,ML,Ongoing - DRDO,4,Not Placed,Not Placed,Not Placed
+s366,Female,B.Tech,EEE,3,74.52,CBSE,2023,82.42,CBSE - Science,2025.0,2025,8.1,88.0,No,ANSYS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s367,Male,BCA,Information Technology,6,71.41,ICSE,2021,93.47,ISC - Commerce,2023.0,2024,7.49,76.0,Yes (Cleared),Azure,Completed - Wipro,4,Placed - IBM,Placed,IBM
+s368,Male,B.Tech,Civil,6,75.65,ICSE,2021,83.44,CHSE Odisha - Science,2023.0,2024,5.81,88.0,No,AutoCAD,Completed - Infosys,4,Not Placed,Not Placed,Not Placed
+s369,Male,B.Tech,EEE,2,78.74,CBSE,2024,73.76,CHSE Odisha - Science,2026.0,2026,7.54,93.0,No,AutoCAD,Not Yet,1,Not Placed,Not Placed,Not Placed
+s370,Male,BCA,Computer Applications,1,78.54,State Board,2024,75.69,State Board - Science,2026.0,2026,6.25,57.0,Yes,Python,Not Yet,0,Not Placed,Not Placed,Not Placed
+s371,Male,BCA,Information Technology,2,91.27,State Board,2024,65.59,ISC - Science,2026.0,2026,8.89,83.0,No,NPTEL DBMS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s372,Male,B.Tech,ECE,3,78.12,CBSE,2023,93.8,State Board - Science,2025.0,2025,8.53,74.0,Yes,No Certification,Completed - Cisco,1,Not Placed,Not Placed,Not Placed
+s373,Female,B.Tech,Civil,4,84.0,State Board,2023,94.71,ISC - Science,2025.0,2025,7.31,92.0,No,No Certification,Completed - NTPC,0,Not Placed,Not Placed,Not Placed
+s374,Male,B.Tech,CSE,2,74.98,CBSE,2023,67.76,CBSE - Science,2025.0,2026,7.96,86.0,No,NPTEL DBMS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s375,Male,B.Tech,CSE,6,79.72,State Board,2022,61.35,CBSE - Science,2024.0,2024,9.09,88.0,No,NPTEL DBMS,Ongoing - Microsoft,2,Not Placed,Not Placed,Not Placed
+s376,Male,B.Tech,CSE,3,70.51,ICSE,2023,68.96,ISC - Science,2025.0,2025,7.62,79.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s377,Male,B.Tech,IT,8,77.01,CBSE,2020,72.32,CBSE - Science,2022.0,2023,8.39,85.0,No,SQL,Completed - Google,4,Placed - Goldman Sachs,Placed,Goldman Sachs
+s378,Female,B.Tech,EEE,5,70.43,CBSE,2022,91.6,CBSE - Science,2024.0,2024,6.88,77.0,No,ETABS,Completed - HCL,1,Not Placed,Not Placed,Not Placed
+s379,Female,B.Tech,CSE,1,90.53,CBSE,2023,91.66,CHSE Odisha - Science,2025.0,2026,7.8,86.0,Yes,Python,Not Yet,3,Not Placed,Not Placed,Not Placed
+s380,Male,M.Tech,Communication Systems,4,85.43,ICSE,2019,89.3,CBSE - Science,2021.0,2025,7.27,73.0,Yes (Cleared),No Certification,Ongoing - TCS,1,Not Placed,Not Placed,Not Placed
+s381,Male,B.Tech,Mechanical,1,68.56,CBSE,2024,61.65,CBSE - Science,2026.0,2026,8.06,88.0,No,Revit,Not Yet,1,Not Placed,Not Placed,Not Placed
+s382,Male,B.Tech,EEE,3,83.29,ICSE,2022,87.52,ISC - Science,2024.0,2025,6.5,98.0,No,Revit,Ongoing - Ashok Leyland,3,Not Placed,Not Placed,Not Placed
+s383,Female,B.Tech,Civil,1,65.78,ICSE,2024,84.84,CHSE Odisha - Science,2026.0,2026,8.19,85.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s384,Male,B.Tech,ECE,8,67.49,CBSE,2020,82.63,ISC - Science,2022.0,2023,9.34,100.0,No,AWS,Completed - Infosys,5,Placed - Adobe,Placed,Adobe
+s385,Female,B.Tech,Civil,8,92.93,ICSE,2020,94.49,CBSE - Science,2022.0,2023,9.0,74.0,No,No Certification,Completed - TCS,3,Placed - Deloitte,Placed,Deloitte
+s386,Male,B.Tech,IT,1,82.1,CBSE,2023,61.95,State Board - Science,2025.0,2026,6.63,48.0,Yes,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s387,Female,BCA,Multimedia,4,83.86,CBSE,2023,65.07,State Board - Arts,2025.0,2025,7.96,91.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s388,Male,B.Sc,Physics,2,93.37,CBSE,2024,86.42,CHSE Odisha - Commerce,2026.0,2026,7.96,62.0,Yes,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s389,Female,B.Tech,Mechanical,1,81.01,CBSE,2023,92.88,ISC - Science,2025.0,2026,9.03,94.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s390,Male,M.Tech,Thermal Engineering,2,84.19,State Board,2019,83.69,CBSE - Science,2021.0,2026,7.63,94.0,No,ANSYS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s391,Female,MCA,Artificial Intelligence,4,89.26,State Board,2019,70.46,ISC - Science,2021.0,2025,8.43,74.0,Yes,Java,Not Yet,4,Not Placed,Not Placed,Not Placed
+s392,Female,B.Tech,Mechanical,8,97.51,CBSE,2021,80.7,State Board - Science,2023.0,2023,8.65,95.0,No,MATLAB & Simulink,Completed - Cognizant,3,Placed - IBM,Placed,IBM
+s393,Male,MCA,Data Science,2,79.6,CBSE,2021,86.53,State Board - Science,2023.0,2026,8.78,92.0,No,Java,Not Yet,2,Not Placed,Not Placed,Not Placed
+s394,Female,B.Tech,ECE,1,93.3,ICSE,2023,63.69,ISC - Science,2025.0,2026,9.33,100.0,No,SQL,Not Yet,4,Not Placed,Not Placed,Not Placed
+s395,Male,B.Tech,Civil,8,89.79,State Board,2021,71.34,State Board - Science,2023.0,2023,7.8,84.0,No,SolidWorks,Completed - ISRO,2,Placed - ONGC,Placed,ONGC
+s396,Female,B.Tech,EEE,1,87.81,CBSE,2023,69.0,CBSE - Science,2025.0,2026,8.29,69.0,Yes,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s397,Male,B.Sc,Data Science,5,58.37,ICSE,2021,64.35,CHSE Odisha - Science,2023.0,2024,7.55,79.0,No,Azure,Not Yet,3,Placed - Capgemini,Placed,Capgemini
+s398,Male,B.Tech,Mechanical,2,79.73,State Board,2024,53.84,State Board - Science,2026.0,2026,6.5,89.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s399,Female,M.Tech,Software Engineering,3,71.52,ICSE,2018,65.9,CHSE Odisha - Science,2020.0,2025,7.28,74.0,Yes (Cleared),No Certification,Completed - IBM,2,Not Placed,Not Placed,Not Placed
+s400,Female,B.Tech,IT,1,73.63,State Board,2023,68.35,State Board - Science,2025.0,2026,7.11,76.0,Yes,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s401,Female,B.Tech,EEE,1,71.98,CBSE,2024,65.01,CHSE Odisha - Science,2026.0,2026,8.16,89.1,No,ANSYS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s402,Female,B.Tech,Civil,8,90.74,CBSE,2020,83.72,CBSE - Science,2022.0,2023,7.64,64.0,Yes,No Certification,Completed - JSW Steel,4,Not Placed,Not Placed,Not Placed
+s403,Female,MCA,Cybersecurity,4,77.16,State Board,2020,60.44,ISC - Science,2022.0,2025,8.79,91.0,Yes,Cisco CCNA,Completed - Google,3,Not Placed,Not Placed,Not Placed
+s404,Female,B.Tech,Mechanical,2,52.77,State Board,2023,85.1,CHSE Odisha - Science,2025.0,2026,7.57,86.0,No,ANSYS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s405,Male,M.Tech,Thermal Engineering,1,72.37,State Board,2020,66.83,CHSE Odisha - Science,2022.0,2026,7.32,92.0,No,AutoCAD,Not Yet,1,Not Placed,Not Placed,Not Placed
+s406,Male,B.Tech,ECE,2,93.56,State Board,2023,61.26,CHSE Odisha - Science,2025.0,2026,7.75,77.0,No,Python,Not Yet,3,Not Placed,Not Placed,Not Placed
+s407,Male,B.Tech,IT,1,94.38,ICSE,2024,92.47,ISC - Science,2026.0,2026,8.31,83.0,No,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s408,Female,BCA,Computer Applications,1,88.78,CBSE,2024,67.72,CHSE Odisha - Commerce,2026.0,2026,8.22,98.0,No,Java,Not Yet,1,Not Placed,Not Placed,Not Placed
+s409,Male,B.Tech,IT,8,77.89,CBSE,2020,92.69,CBSE - Science,2022.0,2023,7.78,91.0,No,No Certification,Completed - DRDO,4,Not Placed,Not Placed,Not Placed
+s410,Male,B.Tech,Civil,8,58.01,ICSE,2021,90.34,CHSE Odisha - Science,2023.0,2023,7.29,72.0,No,No Certification,Completed - Cognizant,0,Placed - IBM,Placed,IBM
+s411,Male,M.Tech,VLSI,4,78.21,ICSE,2019,91.1,ISC - Science,2021.0,2025,9.06,93.0,Yes,SQL,Completed - HCL,3,Placed - Tech Mahindra,Placed,Tech Mahindra
+s412,Female,M.Tech,Structural Engineering,4,52.45,CBSE,2018,64.89,ISC - Science,2020.0,2025,6.5,94.0,Yes,No Certification,Completed - Cognizant,3,Not Placed,Not Placed,Not Placed
+s413,Male,BCA,Information Technology,5,68.06,CBSE,2021,75.65,State Board - Science,2023.0,2024,7.12,67.0,Yes (Cleared),No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s414,Female,B.Tech,Mechanical,5,62.3,CBSE,2022,63.39,CBSE - Science,2024.0,2024,9.16,97.0,No,Revit,Completed - JSW Steel,3,Not Placed,Not Placed,Not Placed
+s415,Male,B.Tech,CSE,6,54.76,ICSE,2022,92.51,CHSE Odisha - Science,2024.0,2024,8.2,86.0,No,Cisco CCNA,Completed - Microsoft,3,Not Placed,Not Placed,Not Placed
+s416,Male,B.Tech,Mechanical,6,96.93,CBSE,2022,89.48,ISC - Science,2024.0,2024,6.89,100.0,No,No Certification,Completed - L&T,1,Not Placed,Not Placed,Not Placed
+s417,Male,MCA,Data Science,4,62.54,State Board,2020,81.99,CHSE Odisha - Science,2022.0,2025,7.95,76.0,No,ML,Completed - Oracle,2,Placed - Microsoft,Placed,Microsoft
+s418,Female,B.Sc,Physics,1,85.32,State Board,2024,75.83,CHSE Odisha - Science,2026.0,2026,6.91,68.0,Yes,SQL,Not Yet,1,Not Placed,Not Placed,Not Placed
+s419,Female,B.Tech,ECE,1,76.84,State Board,2023,71.89,State Board - Science,2025.0,2026,7.75,92.0,Yes (Cleared),ML,Not Yet,3,Not Placed,Not Placed,Not Placed
+s420,Female,B.Tech,EEE,8,59.73,CBSE,2020,88.81,State Board - Science,2022.0,2023,8.59,98.0,No,No Certification,Completed - BHEL,4,Not Placed,Not Placed,Not Placed
+s421,Female,B.Tech,ECE,8,52.21,CBSE,2020,76.71,CHSE Odisha - Science,2022.0,2023,7.72,96.0,No,NPTEL DBMS,Completed - Amazon,4,Placed - TCS,Placed,TCS
+s422,Male,B.Tech,CSE,3,79.98,ICSE,2022,81.99,CHSE Odisha - Science,2024.0,2025,8.48,85.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s423,Female,B.Tech,Mechanical,8,55.89,ICSE,2021,65.0,CBSE - Science,2023.0,2023,7.06,85.0,No,ETABS,Completed - Bosch,1,Placed - Capgemini,Placed,Capgemini
+s424,Female,B.Tech,Civil,8,80.69,State Board,2021,67.76,State Board - Science,2023.0,2023,7.8,74.0,Yes (Cleared),No Certification,Completed - Siemens,2,Placed - Wipro,Placed,Wipro
+s425,Female,B.Sc,Physics,1,83.29,ICSE,2024,61.99,CHSE Odisha - Arts,2026.0,2026,7.55,71.0,Yes,Python,Not Yet,1,Not Placed,Not Placed,Not Placed
+s426,Male,M.Tech,Software Engineering,4,84.08,CBSE,2019,84.98,ISC - Science,2021.0,2025,8.12,91.0,Yes (Cleared),NPTEL DBMS,Not Yet,2,Placed - Accenture,Placed,Accenture
+s427,Male,M.Tech,Environmental Engineering,1,75.63,State Board,2020,79.37,ISC - Science,2022.0,2026,7.73,76.0,No,PLC & SCADA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s428,Female,B.Tech,ECE,8,84.13,ICSE,2020,65.06,CHSE Odisha - Science,2022.0,2023,6.64,63.0,Yes (Cleared),No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s429,Female,B.Tech,IT,2,70.14,CBSE,2024,90.48,CHSE Odisha - Science,2026.0,2026,8.42,90.0,No,Java,Not Yet,2,Not Placed,Not Placed,Not Placed
+s430,Female,M.Sc,Physics,4,77.4,CBSE,2020,69.32,CHSE Odisha - Science,2022.0,2025,6.78,67.0,Yes,Python,Not Yet,0,Placed - Cognizant,Placed,Cognizant
+s431,Female,B.Tech,CSE,2,72.51,CBSE,2024,74.41,ISC - Science,2026.0,2026,6.63,72.0,Yes,AWS,Not Yet,0,Not Placed,Not Placed,Not Placed
+s432,Female,B.Tech,Mechanical,4,81.19,ICSE,2022,65.45,CBSE - Science,2024.0,2025,6.05,89.0,No,Revit,Completed - ISRO,3,Not Placed,Not Placed,Not Placed
+s433,Female,B.Tech,Mechanical,4,71.17,State Board,2023,69.49,State Board - Science,2025.0,2025,6.82,82.0,No,MATLAB & Simulink,Completed - HCL,2,Not Placed,Not Placed,Not Placed
+s434,Male,B.Tech,Mechanical,5,70.63,ICSE,2022,89.38,CHSE Odisha - Science,2024.0,2024,7.98,89.0,No,No Certification,Ongoing - Infosys,1,Not Placed,Not Placed,Not Placed
+s435,Female,B.Tech,ECE,3,78.52,CBSE,2023,71.71,CHSE Odisha - Science,2025.0,2025,8.63,90.0,No,No Certification,Completed - ISRO,1,Not Placed,Not Placed,Not Placed
+s436,Male,MCA,Software Engineering,4,76.52,ICSE,2019,65.87,State Board - Science,2021.0,2025,6.53,65.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s437,Female,M.Tech,Thermal Engineering,4,86.4,CBSE,2019,77.19,State Board - Science,2021.0,2025,7.41,86.0,Yes,No Certification,Ongoing - Ashok Leyland,0,Not Placed,Not Placed,Not Placed
+s438,Female,B.Tech,Civil,1,84.82,ICSE,2023,71.13,CHSE Odisha - Science,2025.0,2026,8.8,89.0,No,PLC & SCADA,Not Yet,4,Not Placed,Not Placed,Not Placed
+s439,Female,BCA,Computer Applications,2,91.02,State Board,2023,91.61,CBSE - Science,2025.0,2026,9.87,99.0,No,Azure,Not Yet,3,Not Placed,Not Placed,Not Placed
+s440,Male,B.Tech,EEE,1,88.41,State Board,2024,64.0,ISC - Science,2026.0,2026,6.39,73.0,Yes (Cleared),No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s441,Female,B.Tech,IT,1,90.05,CBSE,2024,94.25,CBSE - Science,2026.0,2026,8.13,82.0,Yes,Cisco CCNA,Not Yet,1,Not Placed,Not Placed,Not Placed
+s442,Female,B.Tech,CSE,8,94.61,State Board,2020,61.99,ISC - Science,2022.0,2023,6.85,56.0,Yes,ML,Completed - TCS,4,Not Placed,Not Placed,Not Placed
+s443,Female,B.Tech,ECE,8,80.91,State Board,2021,91.33,State Board - Science,2023.0,2023,8.07,87.0,No,Java,Completed - Google,2,Placed - Cognizant,Placed,Cognizant
+s444,Female,B.Tech,Mechanical,4,79.13,CBSE,2023,83.39,CHSE Odisha - Science,2025.0,2025,7.98,92.0,No,ETABS,Ongoing - Cognizant,2,Not Placed,Not Placed,Not Placed
+s445,Male,Diploma,Diploma Civil,6,97.57,State Board,2023,,Diploma (Lateral Entry),,2024,9.71,92.0,Yes,ANSYS,Completed - Mahindra & Mahindra,4,Not Placed,Not Placed,Not Placed
+s446,Female,B.Tech,CSE,8,74.18,CBSE,2020,76.71,CBSE - Science,2022.0,2023,5.88,43.0,Yes,No Certification,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s447,Female,MCA,Artificial Intelligence,4,90.28,ICSE,2019,70.02,ISC - Science,2021.0,2025,9.34,94.0,Yes,No Certification,Not Yet,4,Not Placed,Not Placed,Not Placed
+s448,Female,MCA,Computer Applications,4,88.01,State Board,2019,69.02,ISC - Science,2021.0,2025,7.44,78.0,Yes,No Certification,Completed - Oracle,2,Placed - Accenture,Placed,Accenture
+s449,Male,B.Tech,EEE,1,71.23,ICSE,2024,67.06,CHSE Odisha - Science,2026.0,2026,6.28,72.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s450,Male,B.Tech,ECE,2,93.39,ICSE,2024,72.75,CBSE - Science,2026.0,2026,8.84,100.0,No,SQL,Not Yet,1,Not Placed,Not Placed,Not Placed
+s451,Female,B.Tech,IT,8,94.97,ICSE,2020,94.69,ISC - Science,2022.0,2023,6.75,92.0,Yes,No Certification,Completed - Google,2,Not Placed,Not Placed,Not Placed
+s452,Female,M.Tech,Software Engineering,4,87.57,State Board,2019,94.93,State Board - Science,2021.0,2025,8.4,89.0,Yes,Cisco CCNA,Completed - Intel,3,Not Placed,Not Placed,Not Placed
+s453,Male,B.Tech,IT,2,90.55,ICSE,2024,92.38,CBSE - Science,2026.0,2026,8.25,64.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s454,Male,B.Tech,Mechanical,4,92.74,ICSE,2022,63.41,CHSE Odisha - Science,2024.0,2025,8.44,81.0,No,No Certification,Completed - Wipro,4,Not Placed,Not Placed,Not Placed
+s455,Male,B.Sc,Physics,6,73.9,CBSE,2022,70.13,ISC - Science,2024.0,2024,6.3,84.0,Yes,NPTEL DBMS,Not Yet,0,Not Placed,Not Placed,Not Placed
+s456,Male,B.Tech,Civil,7,84.67,ICSE,2021,91.37,State Board - Science,2023.0,2023,9.14,96.0,No,AutoCAD,Completed - TCS,3,Not Placed,Not Placed,Not Placed
+s457,Male,B.Tech,CSE,8,84.12,State Board,2021,62.01,State Board - Science,2023.0,2023,6.96,65.5,Yes (Cleared),Cisco CCNA,Completed - Cisco,1,Placed - Deloitte,Placed,Deloitte
+s458,Female,B.Tech,ECE,6,93.38,State Board,2022,85.43,ISC - Science,2024.0,2024,8.61,82.0,No,Java,Not Yet,3,Not Placed,Not Placed,Not Placed
+s459,Male,B.Tech,ECE,8,92.53,ICSE,2021,70.27,ISC - Science,2023.0,2023,7.36,61.0,No,NPTEL DBMS,Completed - Cisco,1,Placed - Accenture,Placed,Accenture
+s460,Male,B.Tech,CSE,5,93.14,ICSE,2022,94.25,CHSE Odisha - Science,2024.0,2024,9.65,92.0,No,Azure,Ongoing - Microsoft,2,Not Placed,Not Placed,Not Placed
+s461,Female,B.Tech,EEE,8,86.35,ICSE,2021,55.08,CBSE - Science,2023.0,2023,7.18,79.0,No,No Certification,Completed - ISRO,0,Not Placed,Not Placed,Not Placed
+s462,Male,M.Tech,Software Engineering,4,95.0,CBSE,2018,88.25,CBSE - Science,2020.0,2025,7.48,61.0,Yes,Azure,Not Yet,2,Not Placed,Not Placed,Not Placed
+s463,Female,B.Tech,IT,8,89.12,ICSE,2020,71.93,CBSE - Science,2022.0,2023,8.11,94.0,No,ML,Completed - ISRO,3,Placed - Microsoft,Placed,Microsoft
+s464,Female,BCA,Computer Applications,6,89.41,State Board,2022,64.91,State Board - Arts,2024.0,2024,8.68,94.0,Yes,SQL,Not Yet,3,Not Placed,Not Placed,Not Placed
+s465,Female,BCA,Computer Applications,6,76.44,CBSE,2021,60.07,State Board - Science,2023.0,2024,6.62,71.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s466,Female,B.Tech,Civil,5,70.87,ICSE,2022,89.13,CBSE - Science,2024.0,2024,7.48,70.0,Yes,AutoCAD,Completed - IBM,2,Not Placed,Not Placed,Not Placed
+s467,Male,B.Tech,EEE,1,73.73,State Board,2024,78.43,ISC - Science,2026.0,2026,7.68,67.0,Yes,Revit,Not Yet,2,Not Placed,Not Placed,Not Placed
+s468,Male,B.Tech,Mechanical,1,59.97,ICSE,2023,66.5,ISC - Science,2025.0,2026,7.62,96.0,No,ANSYS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s469,Female,BCA,Computer Applications,1,72.94,CBSE,2024,75.23,CBSE - Commerce,2026.0,2026,8.4,97.0,No,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s470,Male,M.Tech,Robotics,1,93.4,CBSE,2019,91.92,State Board - Science,2021.0,2026,9.13,92.0,No,ML,Not Yet,5,Not Placed,Not Placed,Not Placed
+s471,Male,BCA,Information Technology,1,85.64,ICSE,2024,67.64,State Board - Science,2026.0,2026,7.95,79.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s472,Male,B.Tech,IT,8,87.58,CBSE,2020,80.0,State Board - Science,2022.0,2023,7.71,85.0,No,Cisco CCNA,Completed - IBM,5,Placed - Capgemini,Placed,Capgemini
+s473,Female,B.Tech,IT,8,87.53,ICSE,2021,64.83,CHSE Odisha - Science,2023.0,2023,8.67,87.0,No,No Certification,Completed - Google,1,Placed - Accenture,Placed,Accenture
+s474,Female,B.Tech,Civil,4,89.06,CBSE,2022,66.3,ISC - Science,2024.0,2025,8.31,77.0,No,STAAD Pro,Completed - Siemens,4,Not Placed,Not Placed,Not Placed
+s475,Female,M.Tech,Robotics,4,83.7,CBSE,2019,86.97,CBSE - Science,2021.0,2025,7.79,71.0,Yes (Cleared),Azure,Completed - Wipro,3,Placed - Tech Mahindra,Placed,Tech Mahindra
+s476,Female,B.Tech,CSE,8,70.09,ICSE,2020,84.91,ISC - Science,2022.0,2023,7.24,83.0,Yes,Java,Completed - Microsoft,4,Not Placed,Not Placed,Not Placed
+s477,Male,BCA,Computer Applications,5,92.34,State Board,2022,66.88,CBSE - Science,2024.0,2024,7.62,81.0,No,No Certification,Completed - TCS,1,Placed - Infosys,Placed,Infosys
+s478,Female,B.Tech,ECE,1,90.95,ICSE,2024,62.77,ISC - Science,2026.0,2026,6.77,95.0,No,Azure,Not Yet,1,Not Placed,Not Placed,Not Placed
+s479,Male,B.Tech,CSE,8,84.08,ICSE,2020,63.06,ISC - Science,2022.0,2023,8.55,88.0,No,Python,Completed - Cognizant,5,Placed - Microsoft,Placed,Microsoft
+s480,Male,B.Tech,CSE,8,84.99,CBSE,2021,81.3,CHSE Odisha - Science,2023.0,2023,7.7,75.0,Yes,Cisco CCNA,Not Yet,2,Not Placed,Not Placed,Not Placed
+s481,Female,B.Tech,Mechanical,8,88.46,CBSE,2021,77.34,CBSE - Science,2023.0,2023,7.21,89.0,No,ETABS,Completed - ONGC,2,Placed - HCL,Placed,HCL
+s482,Female,M.Tech,VLSI,3,71.85,CBSE,2018,69.59,CHSE Odisha - Science,2020.0,2025,5.57,88.0,Yes,AWS,Completed - Cognizant,3,Not Placed,Not Placed,Not Placed
+s483,Male,B.Tech,EEE,8,90.63,CBSE,2021,67.21,CBSE - Science,2023.0,2023,7.03,89.0,Yes,AutoCAD,Not Yet,1,Not Placed,Not Placed,Not Placed
+s484,Male,B.Tech,Civil,7,77.06,State Board,2021,81.44,CBSE - Science,2023.0,2023,6.74,67.0,Yes,AutoCAD,Completed - ISRO,2,Not Placed,Not Placed,Not Placed
+s485,Male,B.Tech,ECE,8,72.08,CBSE,2021,84.77,State Board - Science,2023.0,2023,8.46,85.0,No,Java,Completed - Google,3,Placed - Accenture,Placed,Accenture
+s486,Female,B.Tech,EEE,8,77.44,State Board,2020,88.41,CHSE Odisha - Science,2022.0,2023,7.52,76.0,Yes,ANSYS,Not Yet,4,Not Placed,Not Placed,Not Placed
+s487,Female,Diploma,Diploma CSE,1,90.42,ICSE,2026,,Diploma (Lateral Entry),,2026,8.27,81.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s488,Female,B.Tech,IT,3,75.75,CBSE,2023,67.08,ISC - Science,2025.0,2025,6.9,92.0,No,No Certification,Completed - DRDO,1,Not Placed,Not Placed,Not Placed
+s489,Male,M.Tech,Power Systems,4,90.72,State Board,2018,62.3,CHSE Odisha - Science,2020.0,2025,9.04,91.0,Yes,No Certification,Ongoing - Bosch,5,Not Placed,Not Placed,Not Placed
+s490,Female,B.Sc,Chemistry,6,97.32,State Board,2021,85.65,CHSE Odisha - Science,2023.0,2024,6.47,86.0,Yes,NPTEL DBMS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s491,Female,B.Tech,CSE,1,83.83,ICSE,2024,74.28,CBSE - Science,2026.0,2026,7.21,88.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s492,Male,B.Tech,Mechanical,2,80.71,State Board,2024,85.26,ISC - Science,2026.0,2026,6.19,91.0,Yes (Cleared),ANSYS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s493,Female,B.Tech,ECE,4,83.41,State Board,2023,61.94,ISC - Science,2025.0,2025,8.47,90.0,No,Python,Completed - DRDO,2,Not Placed,Not Placed,Not Placed
+s494,Male,Diploma,Diploma Civil,1,89.14,CBSE,2026,,Diploma (Lateral Entry),,2026,8.14,92.0,No,MATLAB & Simulink,Not Yet,1,Not Placed,Not Placed,Not Placed
+s495,Male,M.Sc,Physics,4,91.48,CBSE,2020,71.73,CHSE Odisha - Science,2022.0,2025,6.26,75.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s496,Female,B.Tech,Civil,6,62.51,ICSE,2022,89.47,ISC - Science,2024.0,2024,6.77,78.0,No,No Certification,Ongoing - DRDO,1,Not Placed,Not Placed,Not Placed
+s497,Male,BCA,Information Technology,6,88.0,ICSE,2022,90.26,ISC - Science,2024.0,2024,8.52,95.0,Yes,AWS,Ongoing - ISRO,3,Not Placed,Not Placed,Not Placed
+s498,Male,MCA,Cloud Computing,4,68.77,CBSE,2020,77.26,CHSE Odisha - Science,2022.0,2025,6.4,72.0,Yes,Azure,Completed - HCL,1,Not Placed,Not Placed,Not Placed
+s499,Female,B.Tech,Mechanical,2,74.13,State Board,2023,60.54,ISC - Science,2025.0,2026,8.06,90.0,No,ANSYS,Not Yet,4,Not Placed,Not Placed,Not Placed
+s500,Female,B.Tech,CSE,8,77.11,CBSE,2020,91.86,CHSE Odisha - Science,2022.0,2023,8.08,83.0,No,Java,Completed - TCS,5,Placed - Capgemini,Placed,Capgemini
+s501,Female,B.Tech,CSE,8,56.72,CBSE,2020,76.68,ISC - Science,2022.0,2023,6.75,77.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s502,Female,B.Sc,Chemistry,6,78.52,CBSE,2022,90.52,ISC - Science,2024.0,2024,9.51,82.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s503,Male,M.Tech,Structural Engineering,3,85.9,ICSE,2019,69.32,CHSE Odisha - Science,2021.0,2025,6.77,99.0,Yes (Cleared),SolidWorks,Completed - TCS,2,Placed - Bosch,Placed,Bosch
+s504,Male,B.Sc,Mathematics,4,70.35,ICSE,2022,66.51,CBSE - Science,2024.0,2025,7.34,75.0,No,Python,Ongoing - ISRO,3,Not Placed,Not Placed,Not Placed
+s505,Male,B.Tech,IT,8,71.7,CBSE,2020,89.11,CBSE - Science,2022.0,2023,8.5,83.0,Yes,No Certification,Completed - Microsoft,3,Not Placed,Not Placed,Not Placed
+s506,Female,B.Tech,EEE,5,77.53,ICSE,2022,72.85,CBSE - Science,2024.0,2024,8.59,92.0,No,No Certification,Completed - Mahindra & Mahindra,2,Not Placed,Not Placed,Not Placed
+s507,Female,B.Tech,CSE,2,88.82,CBSE,2023,65.72,State Board - Science,2025.0,2026,7.71,84.0,No,Java,Not Yet,4,Not Placed,Not Placed,Not Placed
+s508,Male,B.Tech,EEE,8,89.38,CBSE,2020,72.99,CBSE - Science,2022.0,2023,9.37,90.0,No,PLC & SCADA,Completed - Wipro,4,Placed - IBM,Placed,IBM
+s509,Female,M.Sc,Data Science,4,88.92,ICSE,2019,80.82,CHSE Odisha - Science,2021.0,2025,8.26,76.0,Yes,Java,Completed - Cisco,4,Not Placed,Not Placed,Not Placed
+s510,Male,B.Tech,EEE,1,78.14,ICSE,2023,60.16,State Board - Science,2025.0,2026,7.1,79.0,No,ANSYS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s511,Male,B.Tech,CSE,2,84.46,CBSE,2024,78.19,State Board - Science,2026.0,2026,7.82,97.0,No,AWS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s512,Male,B.Tech,ECE,1,83.01,State Board,2024,75.6,State Board - Science,2026.0,2026,9.05,97.0,No,Azure,Not Yet,3,Not Placed,Not Placed,Not Placed
+s513,Male,B.Tech,Mechanical,8,83.06,State Board,2020,78.05,CHSE Odisha - Science,2022.0,2023,9.16,92.0,No,STAAD Pro,Completed - DRDO,5,Placed - BHEL,Placed,BHEL
+s514,Male,B.Tech,CSE,8,73.32,ICSE,2020,64.23,ISC - Science,2022.0,2023,6.26,75.0,Yes (Cleared),NPTEL DBMS,Completed - Cognizant,3,Placed - Accenture,Placed,Accenture
+s515,Female,B.Tech,EEE,8,95.02,CBSE,2021,85.01,CBSE - Science,2023.0,2023,8.21,88.0,No,STAAD Pro,Completed - HCL,1,Placed - Cognizant,Placed,Cognizant
+s516,Male,B.Tech,EEE,8,75.58,State Board,2021,88.58,CHSE Odisha - Science,2023.0,2023,8.76,100.0,No,SolidWorks,Completed - Tata Motors,2,Placed - Bosch,Placed,Bosch
+s517,Male,B.Tech,IT,6,97.39,State Board,2022,90.29,CHSE Odisha - Science,2024.0,2024,8.38,67.0,Yes,Python,Completed - TCS,2,Not Placed,Not Placed,Not Placed
+s518,Female,B.Tech,ECE,8,65.83,State Board,2020,71.23,CHSE Odisha - Science,2022.0,2023,7.13,78.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s519,Male,B.Tech,CSE,8,70.49,CBSE,2020,84.89,CHSE Odisha - Science,2022.0,2023,5.84,84.0,Yes,NPTEL DBMS,Completed - DRDO,4,Not Placed,Not Placed,Not Placed
+s520,Female,B.Tech,Mechanical,8,84.4,State Board,2021,80.51,State Board - Science,2023.0,2023,7.92,86.0,No,STAAD Pro,Completed - L&T,2,Placed - Bosch,Placed,Bosch
+s521,Male,B.Tech,Mechanical,1,92.96,CBSE,2024,86.3,State Board - Science,2026.0,2026,8.21,79.0,Yes (Cleared),No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s522,Female,B.Tech,IT,8,97.11,State Board,2021,62.14,CBSE - Science,2023.0,2023,9.29,87.0,No,Python,Completed - DRDO,3,Placed - Google,Placed,Google
+s523,Female,B.Tech,ECE,2,82.58,ICSE,2023,90.55,CBSE - Science,2025.0,2026,8.52,82.0,Yes (Cleared),No Certification,Not Yet,4,Not Placed,Not Placed,Not Placed
+s524,Female,MCA,Computer Applications,4,65.98,State Board,2019,93.39,State Board - Science,2021.0,2025,7.77,74.0,Yes,Java,Not Yet,3,Not Placed,Not Placed,Not Placed
+s525,Female,B.Tech,CSE,8,75.88,CBSE,2020,77.32,State Board - Science,2022.0,2023,6.18,61.0,Yes,AWS,Completed - Oracle,3,Not Placed,Not Placed,Not Placed
+s526,Female,MCA,Computer Applications,4,96.48,ICSE,2020,77.97,CHSE Odisha - Science,2022.0,2025,8.07,79.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s527,Male,B.Tech,IT,8,75.9,CBSE,2021,78.57,CHSE Odisha - Science,2023.0,2023,7.27,87.0,No,No Certification,Completed - Google,1,Not Placed,Not Placed,Not Placed
+s528,Male,B.Tech,ECE,4,86.28,State Board,2023,78.81,ISC - Science,2025.0,2025,7.59,84.0,No,AWS,Ongoing - DRDO,2,Not Placed,Not Placed,Not Placed
+s529,Male,B.Tech,EEE,4,73.97,CBSE,2023,60.72,CBSE - Science,2025.0,2025,7.43,65.0,Yes,ETABS,Completed - TCS,1,Not Placed,Not Placed,Not Placed
+s530,Female,B.Sc,Physics,6,84.67,CBSE,2021,93.86,CBSE - Science,2023.0,2024,8.16,77.0,No,No Certification,Completed - Intel,3,Not Placed,Not Placed,Not Placed
+s531,Male,B.Tech,EEE,8,96.68,ICSE,2020,67.83,State Board - Science,2022.0,2023,7.89,69.4,Yes,Revit,Completed - Wipro,4,Not Placed,Not Placed,Not Placed
+s532,Male,MCA,Computer Applications,4,73.71,State Board,2019,66.38,CHSE Odisha - Science,2021.0,2025,6.85,69.0,Yes (Cleared),No Certification,Ongoing - TCS,3,Not Placed,Not Placed,Not Placed
+s533,Male,BCA,Information Technology,2,92.97,CBSE,2023,63.59,ISC - Science,2025.0,2026,8.43,83.0,No,No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s534,Female,B.Tech,CSE,8,84.24,ICSE,2021,68.77,CBSE - Science,2023.0,2023,7.04,80.0,No,No Certification,Completed - Cisco,1,Not Placed,Not Placed,Not Placed
+s535,Female,B.Tech,CSE,8,94.83,ICSE,2020,88.6,CBSE - Science,2022.0,2023,7.02,79.0,Yes,NPTEL DBMS,Completed - Microsoft,3,Not Placed,Not Placed,Not Placed
+s536,Female,M.Tech,Machine Learning,4,59.75,CBSE,2018,61.05,State Board - Science,2020.0,2025,7.37,80.0,Yes,Java,Completed - Microsoft,4,Not Placed,Not Placed,Not Placed
+s537,Male,M.Tech,VLSI,1,76.48,CBSE,2019,63.38,ISC - Science,2021.0,2026,6.74,97.0,No,Java,Not Yet,2,Not Placed,Not Placed,Not Placed
+s538,Female,BCA,Information Technology,6,95.14,CBSE,2022,84.46,CBSE - Arts,2024.0,2024,8.55,91.0,Yes,Cisco CCNA,Completed - Microsoft,3,Not Placed,Not Placed,Not Placed
+s539,Male,M.Tech,Robotics,1,83.61,State Board,2020,66.83,State Board - Science,2022.0,2026,7.27,83.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s540,Female,MCA,Data Science,1,70.7,CBSE,2021,60.62,CBSE - Science,2023.0,2026,7.53,93.0,No,NPTEL DBMS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s541,Female,B.Tech,Civil,8,70.1,CBSE,2020,80.98,CHSE Odisha - Science,2022.0,2023,6.82,79.0,No,ETABS,Completed - Ashok Leyland,4,Placed - IBM,Placed,IBM
+s542,Female,B.Tech,ECE,6,83.77,State Board,2022,86.41,CHSE Odisha - Science,2024.0,2024,8.95,78.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s543,Male,B.Sc,Chemistry,6,82.62,State Board,2022,78.3,State Board - Science,2024.0,2024,7.36,67.0,Yes (Cleared),No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s544,Female,B.Tech,Mechanical,8,59.88,CBSE,2020,84.59,ISC - Science,2022.0,2023,7.82,80.0,Yes,SolidWorks,Not Yet,3,Not Placed,Not Placed,Not Placed
+s545,Female,B.Tech,Civil,3,73.94,State Board,2023,63.6,CBSE - Science,2025.0,2025,7.87,86.0,No,ETABS,Completed - Wipro,3,Not Placed,Not Placed,Not Placed
+s546,Male,B.Tech,ECE,6,79.63,ICSE,2022,90.43,State Board - Science,2024.0,2024,9.74,90.0,No,Python,Completed - ISRO,3,Not Placed,Not Placed,Not Placed
+s547,Female,B.Tech,Civil,8,78.85,CBSE,2021,85.1,ISC - Science,2023.0,2023,7.95,87.0,No,MATLAB & Simulink,Completed - Tata Motors,2,Placed - NTPC,Placed,NTPC
+s548,Female,MCA,Data Science,4,93.53,ICSE,2019,61.58,CHSE Odisha - Science,2021.0,2025,7.0,73.0,Yes (Cleared),No Certification,Ongoing - Cisco,2,Placed - HCL,Placed,HCL
+s549,Female,B.Tech,ECE,1,79.87,State Board,2024,64.31,State Board - Science,2026.0,2026,7.22,84.0,Yes (Cleared),Java,Not Yet,1,Not Placed,Not Placed,Not Placed
+s550,Male,B.Tech,ECE,8,91.02,ICSE,2020,77.28,CBSE - Science,2022.0,2023,7.64,88.0,No,No Certification,Completed - Amazon,3,Not Placed,Not Placed,Not Placed
+s551,Female,B.Tech,CSE,7,93.5,State Board,2021,77.53,ISC - Science,2023.0,2023,8.72,81.0,Yes (Cleared),No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s552,Female,B.Tech,Mechanical,2,63.64,State Board,2023,69.79,State Board - Science,2025.0,2026,5.36,92.0,No,ETABS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s553,Male,B.Sc,Data Science,1,95.94,ICSE,2024,64.27,State Board - Arts,2026.0,2026,8.06,83.0,No,ML,Not Yet,2,Not Placed,Not Placed,Not Placed
+s554,Male,B.Tech,IT,4,89.96,State Board,2023,74.2,CHSE Odisha - Science,2025.0,2025,6.07,70.0,Yes (Cleared),ML,Completed - Oracle,2,Not Placed,Not Placed,Not Placed
+s555,Female,MCA,Data Science,2,95.24,ICSE,2020,64.79,State Board - Science,2022.0,2026,7.46,73.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s556,Female,M.Sc,Physics,4,78.12,ICSE,2020,80.71,CBSE - Science,2022.0,2025,8.83,93.0,Yes,NPTEL DBMS,Completed - Infosys,3,Not Placed,Not Placed,Not Placed
+s557,Female,Diploma,Diploma Electrical,3,80.42,State Board,2025,,Diploma (Lateral Entry),,2025,7.51,69.0,Yes,Revit,Ongoing - TCS,2,Not Placed,Not Placed,Not Placed
+s558,Female,B.Tech,EEE,8,81.0,CBSE,2021,65.15,ISC - Science,2023.0,2023,8.34,75.0,No,SolidWorks,Completed - ISRO,1,Not Placed,Not Placed,Not Placed
+s559,Male,M.Tech,VLSI,4,97.97,ICSE,2018,80.05,ISC - Science,2020.0,2025,8.53,82.0,Yes,No Certification,Ongoing - Cisco,4,Not Placed,Not Placed,Not Placed
+s560,Female,B.Tech,CSE,3,53.32,ICSE,2023,86.13,State Board - Science,2025.0,2025,7.59,90.0,No,ML,Not Yet,2,Not Placed,Not Placed,Not Placed
+s561,Male,BCA,Information Technology,2,80.1,State Board,2023,65.75,ISC - Science,2025.0,2026,7.7,68.0,Yes (Cleared),SQL,Not Yet,3,Not Placed,Not Placed,Not Placed
+s562,Female,M.Tech,Environmental Engineering,2,81.99,ICSE,2020,88.91,State Board - Science,2022.0,2026,9.13,90.0,No,Revit,Not Yet,2,Not Placed,Not Placed,Not Placed
+s563,Female,B.Tech,Civil,1,77.7,ICSE,2024,92.82,CHSE Odisha - Science,2026.0,2026,8.7,89.0,No,STAAD Pro,Not Yet,2,Not Placed,Not Placed,Not Placed
+s564,Male,B.Tech,CSE,1,71.35,State Board,2024,73.61,ISC - Science,2026.0,2026,7.09,63.0,Yes (Cleared),Java,Not Yet,0,Not Placed,Not Placed,Not Placed
+s565,Male,MCA,Cybersecurity,4,72.85,ICSE,2020,74.72,ISC - Science,2022.0,2025,7.77,86.0,Yes,Cisco CCNA,Completed - Infosys,2,Not Placed,Not Placed,Not Placed
+s566,Male,B.Tech,Mechanical,1,93.37,CBSE,2024,89.39,CBSE - Science,2026.0,2026,8.75,96.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s567,Female,BCA,Information Technology,3,78.0,CBSE,2023,78.4,CHSE Odisha - Arts,2025.0,2025,7.07,80.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s568,Female,MCA,Computer Applications,3,96.2,CBSE,2020,73.85,CHSE Odisha - Science,2022.0,2025,8.31,66.0,Yes,SQL,Ongoing - Oracle,3,Not Placed,Not Placed,Not Placed
+s569,Male,BCA,Computer Applications,6,76.98,State Board,2021,92.95,State Board - Arts,2023.0,2024,8.36,87.0,Yes,No Certification,Completed - Wipro,4,Not Placed,Not Placed,Not Placed
+s570,Male,M.Tech,VLSI,3,77.44,ICSE,2019,87.19,CBSE - Science,2021.0,2025,7.41,83.0,No,Azure,Ongoing - ISRO,2,Placed - Cognizant,Placed,Cognizant
+s571,Male,B.Tech,IT,2,84.31,ICSE,2024,71.85,CHSE Odisha - Science,2026.0,2026,7.34,53.0,Yes,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s572,Male,B.Tech,Civil,8,75.32,CBSE,2020,68.41,ISC - Science,2022.0,2023,6.56,60.0,Yes,ANSYS,Completed - IBM,3,Not Placed,Not Placed,Not Placed
+s573,Male,MCA,Computer Applications,4,80.45,ICSE,2020,71.73,State Board - Science,2022.0,2025,5.89,84.0,Yes (Cleared),No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s574,Female,B.Tech,CSE,1,96.77,State Board,2024,75.25,ISC - Science,2026.0,2026,8.91,87.0,No,Azure,Not Yet,3,Not Placed,Not Placed,Not Placed
+s575,Male,B.Tech,CSE,2,94.76,ICSE,2023,94.34,CHSE Odisha - Science,2025.0,2026,8.25,77.0,No,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s576,Female,B.Tech,EEE,8,92.73,CBSE,2020,88.15,State Board - Science,2022.0,2023,9.43,89.0,No,ANSYS,Completed - HCL,5,Not Placed,Not Placed,Not Placed
+s577,Male,B.Tech,CSE,8,87.67,ICSE,2021,91.95,State Board - Science,2023.0,2023,6.9,100.0,Yes,Cisco CCNA,Not Yet,0,Not Placed,Not Placed,Not Placed
+s578,Male,B.Tech,Mechanical,8,66.32,ICSE,2020,88.53,ISC - Science,2022.0,2023,6.36,41.0,Yes,No Certification,Not Yet,2,Not Placed,Not Placed,Not Placed
+s579,Female,B.Tech,ECE,1,96.34,CBSE,2024,89.67,CBSE - Science,2026.0,2026,7.91,77.0,No,AWS,Not Yet,2,Not Placed,Not Placed,Not Placed
+s580,Male,B.Tech,IT,8,85.38,CBSE,2021,61.87,CHSE Odisha - Science,2023.0,2023,8.59,89.0,No,Python,Completed - Amazon,3,Placed - Microsoft,Placed,Microsoft
+s581,Male,B.Tech,CSE,1,62.1,CBSE,2024,78.11,CHSE Odisha - Science,2026.0,2026,8.8,100.0,No,NPTEL DBMS,Not Yet,3,Not Placed,Not Placed,Not Placed
+s582,Female,M.Sc,Physics,2,71.39,ICSE,2020,93.53,CHSE Odisha - Science,2022.0,2026,8.58,79.0,No,No Certification,Not Yet,4,Not Placed,Not Placed,Not Placed
+s583,Female,B.Tech,ECE,8,90.51,ICSE,2021,92.7,CBSE - Science,2023.0,2023,8.61,85.0,No,Azure,Completed - ISRO,3,Placed - Amazon,Placed,Amazon
+s584,Male,M.Tech,Robotics,2,82.62,ICSE,2020,68.72,CHSE Odisha - Science,2022.0,2026,8.21,81.0,No,No Certification,Not Yet,1,Not Placed,Not Placed,Not Placed
+s585,Male,B.Tech,IT,6,91.07,CBSE,2022,74.77,ISC - Science,2024.0,2024,7.42,71.0,Yes,Java,Completed - Infosys,2,Not Placed,Not Placed,Not Placed
+s586,Female,Diploma,Diploma Mechanical,3,88.05,ICSE,2025,,Diploma (Lateral Entry),,2025,7.84,88.0,No,STAAD Pro,Not Yet,1,Not Placed,Not Placed,Not Placed
+s587,Female,MCA,Computer Applications,4,78.01,State Board,2020,72.76,CHSE Odisha - Science,2022.0,2025,9.12,89.0,Yes (Cleared),Azure,Ongoing - Microsoft,2,Placed - Amazon,Placed,Amazon
+s588,Male,B.Tech,Civil,3,66.44,State Board,2023,63.22,ISC - Science,2025.0,2025,5.97,71.1,Yes,ETABS,Not Yet,0,Not Placed,Not Placed,Not Placed
+s589,Female,B.Tech,IT,1,56.65,State Board,2024,62.42,State Board - Science,2026.0,2026,6.46,70.0,Yes,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s590,Male,B.Tech,Mechanical,2,73.56,CBSE,2024,75.16,CHSE Odisha - Science,2026.0,2026,8.97,85.0,No,AutoCAD,Not Yet,2,Not Placed,Not Placed,Not Placed
+s591,Male,B.Tech,EEE,1,83.22,CBSE,2024,77.67,State Board - Science,2026.0,2026,8.04,85.0,No,ETABS,Not Yet,1,Not Placed,Not Placed,Not Placed
+s592,Female,B.Tech,Civil,1,67.13,State Board,2023,60.73,CHSE Odisha - Science,2025.0,2026,6.2,76.0,No,AutoCAD,Not Yet,2,Not Placed,Not Placed,Not Placed
+s593,Female,B.Tech,EEE,1,68.49,CBSE,2024,64.88,CBSE - Science,2026.0,2026,8.07,76.0,No,No Certification,Not Yet,0,Not Placed,Not Placed,Not Placed
+s594,Female,B.Sc,Mathematics,2,90.69,CBSE,2024,93.94,CBSE - Science,2026.0,2026,9.36,86.0,No,Python,Not Yet,2,Not Placed,Not Placed,Not Placed
+s595,Female,B.Tech,ECE,2,97.34,State Board,2023,87.18,State Board - Science,2025.0,2026,8.99,62.0,Yes (Cleared),No Certification,Not Yet,3,Not Placed,Not Placed,Not Placed
+s596,Female,B.Tech,IT,4,77.28,ICSE,2023,92.79,CBSE - Science,2025.0,2025,9.26,95.0,No,ML,Ongoing - Intel,3,Not Placed,Not Placed,Not Placed
+s597,Male,B.Tech,ECE,2,88.37,State Board,2023,82.16,State Board - Science,2025.0,2026,10.0,90.0,No,Java,Not Yet,3,Not Placed,Not Placed,Not Placed
+s598,Female,B.Tech,IT,3,78.42,State Board,2023,88.32,CHSE Odisha - Science,2025.0,2025,8.51,76.0,No,Python,Ongoing - Oracle,2,Not Placed,Not Placed,Not Placed
+s599,Male,BCA,Computer Applications,6,68.22,CBSE,2022,90.95,CBSE - Science,2024.0,2024,8.71,93.0,Yes,No Certification,Ongoing - DRDO,2,Not Placed,Not Placed,Not Placed
+s600,Female,B.Tech,ECE,3,81.04,CBSE,2023,90.96,CBSE - Science,2025.0,2025,7.15,69.0,Yes,Java,Ongoing - IBM,1,Not Placed,Not Placed,Not Placed
