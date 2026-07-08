@@ -41,7 +41,7 @@ DB_PORT=5432
 
 ### 4. Run the app
 ```bash
-streamlit run app.py
+https://campusiqplacementanalytics.streamlit.app/
 ```
 
 ---
