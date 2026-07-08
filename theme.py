@@ -91,15 +91,13 @@ def apply_theme():
         opacity: 1 !important;
     }
 
-    /* ── Inputs & text areas ── */
-    .stTextInput > div > div > input,
-    .stTextArea > div > div > textarea,
-    .stSelectbox > div > div {
-        background: rgba(255,255,255,0.04) !important;
-        border: 1px solid rgba(139,92,246,0.25) !important;
-        color: #e2e8f0 !important;
-        border-radius: 10px !important;
-    }
+    /* ── Inputs & text areas — color/background intentionally NOT set here.
+       They're governed by the FINAL FORM-ELEMENT THEME block further down,
+       using plain element selectors. This block used to also set
+       color/background via a class selector (.stTextInput), which — despite
+       appearing earlier in the file — actually WON over the later fix due
+       to higher CSS specificity (class beats plain element regardless of
+       order). Only the focus-ring styling stays here now. ── */
     .stTextInput > div > div > input:focus,
     .stTextArea > div > div > textarea:focus {
         border-color: rgba(139,92,246,0.65) !important;
