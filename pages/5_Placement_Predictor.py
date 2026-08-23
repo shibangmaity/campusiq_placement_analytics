@@ -163,7 +163,7 @@ Return ONLY a JSON object with exactly this shape, no markdown, no backticks, no
         from groq import Groq
         client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=900,
