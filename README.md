@@ -130,7 +130,7 @@ campusiq_placement_analytics/
 
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit
-- **LLM:** LLaMA 3.3 70B via Groq
+- **LLM:** GPT-OSS 120B via Groq
 - **Vector DB:** ChromaDB (RAG)
 - **Database:** PostgreSQL (Neon)
 - **ML:** scikit-learn (Logistic Regression, Random Forest, Decision Tree, KNN, SVM)
