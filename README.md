@@ -1,6 +1,6 @@
 # 🎓 CampusIQ — AI Student Success Platform
 
-> n AI-powered platform for KIIT University combining Natural Language Analytics, ML-based placement/risk prediction, and a RAG-powered career counselor — built on a custom-generated 600-student dataset spanning 21 fields of academic and placement data.
+> An AI-powered platform for KIIT University combining Natural Language Analytics, ML-based placement/risk prediction, and a RAG-powered career counselor — built on a custom-generated 600-student dataset spanning 21 fields of academic and placement data.
 
 🔗 **Live App:** [campusiqplacementanalytics.streamlit.app](https://campusiqplacementanalytics.streamlit.app/)
 
